@@ -11,26 +11,47 @@
         rel="stylesheet">
     <!-- link style.css -->
     <link rel="stylesheet" href="style.css">
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script>
+        $(function () {
+            $.ajax({
+                url: "restaurant.json",
+                dataType: "json",
+                success: function (data) {
+                    if (data.length > 0) {
+                        var td = $('<table class="table table-hover"/>');
+                        td.append('<thead><tr><th scope="col">이름</th><th scope="col">카테고리</th><th scope="col">주소</th><th scope="col">연락처</th></tr></thead>');
+                        for (var i in data) {
+                            var $id = data[i].id;
+                            var $name = data[i].name;
+                            var $category = data[i].category;
+                            var $dong = data[i].dong;
+                            var $contact = data[i].contact;
+
+                            var row = $("<tr/>").append(
+                                $("<td/>").text($name),
+                                $("<td/>").text($category),
+                                $("<td/>").text($dong),
+                                $("<td/>").text($contact),
+                            );
+                            td.append(row);
+                        }
+                        $(".wrap").append(td);
+                    }
+                }
+            })
+        })
+    </script>
     <title>Home</title>
 </head>
 
 <body>
     <div class="title">
-        <h2>1분반 3조의 웹사이트 입니다. ~~</h2>
+        <h2>식당리스트</h2>
         <hr>
     </div>
-    <div class="container">
-        <ul class="list-group">
-            <script src="restaurant.json" type="text/javascript">
-                let mydata = JSON.parse(data);
-                document.write(mydata);
-                var step;
-                for (step = 0; step < mydata.count; step++) {
-                    document.write('<li class="list-group-item"><a class="nav-link" href="form.html" target="_blank">설문조사 페이지</a></li>');
-                }
-            </script>
-        </ul>
-    </div>
+    <div class="container wrap"></div>
 </body>
 
 </html>
