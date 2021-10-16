@@ -36,26 +36,73 @@
         </h2>
         <hr>
     </div>
-    <div>
-        <p>
-            <script>document.write(info.category)</script>
-        </p>
+    <div class="container">
+        <table class="table table-bordered">
+            <tr>
+                <td>공식 이름</td>
+                <td>
+                    <script>document.write(info.official_name)</script>
+                </td>
+            </tr>
+            <tr>
+                <td>카테고리</td>
+                <td>
+                    <script>document.write(info.category)</script>
+                </td>
+            </tr>
+            <tr>
+                <td>주소</td>
+                <td>
+                    <script>document.write(info.address)</script>
+                </td>
+            </tr>
+            <tr>
+                <td>연락처</td>
+                <td>
+                    <script>document.write(info.contact)</script>
+                </td>
+            </tr>
+            <tr>
+                <td>카카오페이지</td>
+                <td>
+                    <script>document.write('<a href=' + info.link + ' target="_blank">' + info.name + '</a>')</script>
+                </td>
+            </tr>
+            <tr>
+                <td>대표메뉴</td>
+                <td>
+                    <script>document.write(info.menu)</script>
+                </td>
+            </tr>
+            <tr>
+                <td>영업시간</td>
+                <td>
+                    <script>document.write(info.opening_hours)</script>
+                </td>
+            </tr>
+            <tr>
+                <td>한동대와의 거리 (m)</td>
+                <td>
+                    <script>document.write(info.distance)</script>
+                </td>
+            </tr>
+        </table>
+        <div id="map" style="width:500px;height:350px;"></div>
+        <script type="text/javascript"
+            src="//dapi.kakao.com/v2/maps/sdk.js?appkey=07848cd6e3998b57736804afc9367510"></script>
+        <script>
+            var mapContainer = document.getElementById('map'),
+                mapOption = {
+                    center: new kakao.maps.LatLng(info.y, info.x), level: 2
+                };
+            var map = new kakao.maps.Map(mapContainer, mapOption);
+            var markerPosition = new kakao.maps.LatLng(info.y, info.x);
+            var marker = new kakao.maps.Marker({
+                position: markerPosition
+            });
+            marker.setMap(map);
+        </script>
     </div>
-    <div id="map" style="width:500px;height:350px;"></div>
-    <script type="text/javascript"
-        src="//dapi.kakao.com/v2/maps/sdk.js?appkey=07848cd6e3998b57736804afc9367510"></script>
-    <script>
-        var mapContainer = document.getElementById('map'),
-            mapOption = {
-                center: new kakao.maps.LatLng(info.y, info.x), level: 2
-            };
-        var map = new kakao.maps.Map(mapContainer, mapOption);
-        var markerPosition = new kakao.maps.LatLng(info.y, info.x);
-        var marker = new kakao.maps.Marker({
-            position: markerPosition
-        });
-        marker.setMap(map);
-    </script>
 </body>
 
 </html>
