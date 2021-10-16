@@ -21,7 +21,7 @@
                 success: function (data) {
                     if (data.length > 0) {
                         var td = $('<table class="table table-hover"/>');
-                        td.append('<thead><tr><th scope="col">이름</th><th scope="col">카테고리</th><th scope="col">주소</th><th scope="col">연락처</th></tr></thead>');
+                        td.append('<thead><tr><th scope="col">이름</th><th scope="col">카테고리</th><th scope="col">주소</th><th scope="col">연락처</th><th scope="col">상세 페이지</th></tr></thead>');
                         for (var i in data) {
                             var $id = data[i].id;
                             var $name = data[i].name;
@@ -34,6 +34,7 @@
                                 $("<td/>").text($category),
                                 $("<td/>").text($dong),
                                 $("<td/>").text($contact),
+                                $('<td><a class="nav-link" href="restaurant.html" target="_blank">' + $name + '</a></td>'),
                             );
                             td.append(row);
                         }
@@ -52,6 +53,27 @@
         <hr>
     </div>
     <div class="container wrap"></div>
+    <div id="map" style="width:100%;height:350px;"></div>
+
+    <script type="text/javascript"
+        src="//dapi.kakao.com/v2/maps/sdk.js?appkey=07848cd6e3998b57736804afc9367510"></script>
+    <script>
+        var mapContainer = document.getElementById('map'),
+            mapOption = {
+                center: new kakao.maps.LatLng(33.450701, 126.570667), level: 3
+            };
+
+        var map = new kakao.maps.Map(mapContainer, mapOption);
+
+        var markerPosition = new kakao.maps.LatLng(33.450701, 126.570667);
+
+        var marker = new kakao.maps.Marker({
+            position: markerPosition
+        });
+
+        marker.setMap(map);
+
+    </script>
 </body>
 
 </html>
