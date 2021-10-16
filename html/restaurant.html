@@ -14,20 +14,16 @@
     <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
     <script>
-        $(function () {
-            $.ajax({
-                url: "restaurant.json",
-                dataType: "json",
-                success: function (data) {
-                    if (data.length > 0) {
-                        for (var i in data) {
-                            if (data[i].name == "도르리식당") {
-                                var info = data[i];
-                            }
-                        }
-                    }
-                }
-            })
+        temp = location.href.split("?");
+        id = temp[1];
+        var info;
+        $.ajax({
+            url: "restaurant.json",
+            async: false,
+            dataType: "json",
+            success: function (data) {
+                info = data[id];
+            }
         })
     </script>
     <title>Info</title>
@@ -35,23 +31,26 @@
 
 <body>
     <div class="title">
-        <h2>식당 정보</h2>
+        <h2>
+            <script>document.write(info.name)</script>
+        </h2>
         <hr>
     </div>
     <div>
-        <script>document.write(info)</script>
+        <p>
+            <script>document.write(info.category)</script>
+        </p>
     </div>
-    <div id="map" style="width:100%;height:350px;"></div>
-
+    <div id="map" style="width:500px;height:350px;"></div>
     <script type="text/javascript"
         src="//dapi.kakao.com/v2/maps/sdk.js?appkey=07848cd6e3998b57736804afc9367510"></script>
     <script>
         var mapContainer = document.getElementById('map'),
             mapOption = {
-                center: new kakao.maps.LatLng(33.450701, 126.570667), level: 3
+                center: new kakao.maps.LatLng(info.y, info.x), level: 3
             };
         var map = new kakao.maps.Map(mapContainer, mapOption);
-        var markerPosition = new kakao.maps.LatLng(33.450701, 126.570667);
+        var markerPosition = new kakao.maps.LatLng(info.y, info.x);
         var marker = new kakao.maps.Marker({
             position: markerPosition
         });
