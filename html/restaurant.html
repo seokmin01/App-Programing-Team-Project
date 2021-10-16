@@ -45,17 +45,20 @@
     <script type="text/javascript"
         src="//dapi.kakao.com/v2/maps/sdk.js?appkey=07848cd6e3998b57736804afc9367510"></script>
     <script>
+        var markerPosition = new kakao.maps.LatLng(info.y, info.x);
+        var markers = [
+            {
+                position: markerPosition,
+                text: info.name
+            }
+        ];
         var mapContainer = document.getElementById('map'),
             mapOption = {
-                center: new kakao.maps.LatLng(info.y, info.x), level: 2
+                center: new kakao.maps.LatLng(info.y, info.x),
+                level: 2,
+                marker: markers
             };
         var map = new kakao.maps.Map(mapContainer, mapOption);
-        var markerPosition = new kakao.maps.LatLng(info.y, info.x);
-        var marker = new kakao.maps.Marker({
-            position: markerPosition,
-            text: info.name
-        });
-        marker.setMap(map);
     </script>
 </body>
 
