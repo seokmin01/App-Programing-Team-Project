@@ -1,15 +1,93 @@
 [
   {
-    "name": "9월애",
-    "id": 0,
-    "official_name": "9월애",
-    "category": "중식",
-    "dong": "장성동",
     "address": "경북 포항시 북구 천마로45번길 19",
+    "bookmark_count": 1,
+    "category": "중식",
+    "comments": [
+      {
+        "query": "AjrWvju6kcRIW5XXcYtl",
+        "user": {
+          "name": "ww",
+          "profile": "https://lh3.googleusercontent.com/a/AATXAJxlAuH8o7SuVyeYJQcAF6fvDA4isot1dUD0aZlP8A=s96-c",
+          "uid": "LRLADB6Cpaemh00kz5tpNOxNdGm2"
+        },
+        "가성비": 1.3,
+        "리뷰": "test",
+        "맛": 3.3,
+        "배달비": 3000,
+        "배달시간": 20,
+        "배달여부": true,
+        "서비스": 4.6,
+        "작성시간": "Sat Nov  6 04:37:24 2021",
+        "종합": 4
+      },
+      {
+        "query": "prLSxTQLdYorCTzGpUwe",
+        "user": {
+          "name": "eqe",
+          "profile": "https://lh3.googleusercontent.com/a/AATXAJxlAuH8o7SuVyeYJQcAF6fvDA4isot1dUD0aZlP8A=s96-c",
+          "uid": "LRLADB6Cpaemh00kz5tpNOxNdGm2"
+        },
+        "가성비": 1.3,
+        "리뷰": "good",
+        "맛": 3.7,
+        "배달비": 0,
+        "배달시간": 30,
+        "배달여부": false,
+        "서비스": 3.8,
+        "작성시간": 1636199316851,
+        "종합": 3
+      }
+    ],
+    "comments_count": 2,
     "contact": "054-282-3555",
+    "cost_performance": 1.2999999999999998,
+    "delivery_availability": "false",
     "distance": 2637,
-    "x": 129.3946,
-    "y": 36.08044,
+    "dong": "장성동",
+    "flavor": 3.5,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ],
+      "목": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ],
+      "월": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ],
+      "일": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ],
+      "토": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ],
+      "화": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ]
+    },
+    "id": 0,
+    "likes": 0,
     "link": "http://place.map.kakao.com/27175049",
     "menu": [
       "9월애 짬뽕: 7000",
@@ -18,30 +96,145 @@
       "낙지짬뽕: 9000",
       "전복짬뽕: 9000"
     ],
+    "name": "9월애",
+    "official_name": "9월애",
     "opening_hours": "월 화 목 금 토 일 11:00 ~ 22:00",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
-    "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "overall": 0,
+    "service": 4.199999999999999,
+    "total": 3.5,
+    "x": 129.3946,
+    "y": 36.08044
   },
   {
-    "name": "가온밀면",
-    "id": 1,
-    "official_name": "가온밀면 장량점",
-    "category": "한식",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 장량로174번길 30",
+    "bookmark_count": 5,
+    "category": "한식",
+    "comments": [
+      {
+        "query": "RwWYZjWPaUDMPHbjuGcW",
+        "user": {
+          "name": "최윤성학부생",
+          "profile": "https://lh3.googleusercontent.com/a/AATXAJxwo9f48Tucyc-vz4e2uXD8b_y0NIwBFXcwWR8b=s96-c",
+          "uid": "iO3iivEOKrdRv3QEO5E9drBbO0B2"
+        },
+        "가성비": 2.5,
+        "리뷰": "로컬 시간 테스트",
+        "맛": 2.5,
+        "배달비": 0,
+        "배달시간": 30,
+        "배달여부": false,
+        "서비스": 2.5,
+        "작성시간": "Sat Jan 10 2020 21:30:57",
+        "종합": 3
+      },
+      {
+        "query": "nwnxdDyjvJHVt7IO72MC",
+        "user": {
+          "name": "최윤성학부생",
+          "profile": "https://lh3.googleusercontent.com/a/AATXAJxwo9f48Tucyc-vz4e2uXD8b_y0NIwBFXcwWR8b=s96-c",
+          "uid": "iO3iivEOKrdRv3QEO5E9drBbO0B2"
+        },
+        "가성비": 4.8,
+        "리뷰": "리뷰 연결 테스트",
+        "맛": 4.4,
+        "배달비": 0,
+        "배달시간": 30,
+        "배달여부": false,
+        "서비스": 4.3,
+        "작성시간": "11/3/2021, 4:41:38 PM",
+        "종합": 4
+      },
+      null,
+      {
+        "query": "Slq2GspZFXQPhOHfdIg3",
+        "user": {
+          "name": "최윤성학부생",
+          "profile": "https://lh3.googleusercontent.com/a/AATXAJxwo9f48Tucyc-vz4e2uXD8b_y0NIwBFXcwWR8b=s96-c",
+          "uid": "iO3iivEOKrdRv3QEO5E9drBbO0B2"
+        },
+        "가성비": 2.5,
+        "리뷰": "",
+        "맛": 2.5,
+        "배달비": 0,
+        "배달시간": 30,
+        "배달여부": false,
+        "서비스": 2.5,
+        "작성시간": 1636185593587,
+        "종합": 3
+      },
+      {
+        "query": "8jZTVxUyoiTUz3RoMNTv",
+        "user": {
+          "name": "최윤성학부생",
+          "profile": "https://lh3.googleusercontent.com/a/AATXAJxwo9f48Tucyc-vz4e2uXD8b_y0NIwBFXcwWR8b=s96-c",
+          "uid": "iO3iivEOKrdRv3QEO5E9drBbO0B2"
+        },
+        "가성비": 3,
+        "리뷰": "11061704",
+        "맛": 3.2,
+        "배달비": 0,
+        "배달시간": 30,
+        "배달여부": false,
+        "서비스": 3.6,
+        "작성시간": 1636185805963,
+        "종합": 2
+      }
+    ],
+    "comments_count": 5,
     "contact": "054-252-7557",
+    "cost_performance": 3.06,
+    "delivery_availability": "true",
     "distance": 2900,
-    "x": 129.3993,
-    "y": 36.07913,
+    "dong": "양덕동",
+    "flavor": 3.0199999999999996,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "10:00",
+          "21:00"
+        ]
+      ],
+      "목": [
+        [
+          "10:00",
+          "21:00"
+        ]
+      ],
+      "수": [
+        [
+          "10:00",
+          "21:00"
+        ]
+      ],
+      "월": [
+        [
+          "10:00",
+          "21:00"
+        ]
+      ],
+      "일": [
+        [
+          "10:00",
+          "21:00"
+        ]
+      ],
+      "토": [
+        [
+          "10:00",
+          "21:00"
+        ]
+      ],
+      "화": [
+        [
+          "10:00",
+          "21:00"
+        ]
+      ]
+    },
+    "id": 1,
+    "likes": 0,
     "link": "http://place.map.kakao.com/1330589701",
     "menu": [
       "모듬만두: 4500",
@@ -50,30 +243,73 @@
       "비빔면: 5500",
       "비빔면 (대): 6000"
     ],
+    "name": "가온밀면",
+    "official_name": "가온밀면 장량점",
     "opening_hours": "매일 10:00 ~ 21:00",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
-    "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "true",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "service": 3.0800000000000005,
+    "total": 3,
+    "x": 129.3993,
+    "y": 36.07913
   },
   {
-    "name": "가장맛있는족발",
-    "id": 2,
-    "official_name": "가장맛있는족발 포항양덕점",
-    "category": "족발 / 보쌈",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 천마로 40",
+    "bookmark_count": 0,
+    "category": "족발 / 보쌈",
+    "comments_count": 0,
     "contact": "054-252-8894",
+    "cost_performance": 0,
+    "delivery_availability": "true",
     "distance": 2747,
-    "x": 129.3976,
-    "y": 36.08009,
+    "dong": "양덕동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "16:30",
+          "00:30"
+        ]
+      ],
+      "목": [
+        [
+          "16:30",
+          "00:30"
+        ]
+      ],
+      "수": [
+        [
+          "16:30",
+          "00:30"
+        ]
+      ],
+      "월": [
+        [
+          "16:30",
+          "00:30"
+        ]
+      ],
+      "일": [
+        [
+          "16:30",
+          "00:30"
+        ]
+      ],
+      "토": [
+        [
+          "16:30",
+          "00:30"
+        ]
+      ],
+      "화": [
+        [
+          "16:30",
+          "00:30"
+        ]
+      ]
+    },
+    "id": 2,
+    "likes": 0,
     "link": "http://place.map.kakao.com/22376985",
     "menu": [
       "족발: 0",
@@ -86,30 +322,138 @@
       "얼큰술국: 0",
       "해물부추전: 0"
     ],
+    "name": "가장맛있는족발",
+    "official_name": "가장맛있는족발 포항양덕점",
     "opening_hours": "매일 16:30 ~ 00:30",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "true",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3976,
+    "y": 36.08009
   },
   {
-    "name": "가정초밥",
-    "id": 3,
-    "official_name": "가정초밥 영일대점",
-    "category": "돈까스 / 회 / 일식",
-    "dong": "두호동",
     "address": "경북 포항시 북구 삼호로 254",
+    "bookmark_count": 6,
+    "category": "돈까스 / 회 / 일식",
+    "comments": [
+      {
+        "query": "kq0yRpUqyFerzgVg3S0E",
+        "user": {
+          "name": "한동인",
+          "profile": "https://lh3.googleusercontent.com/a-/AOh14GhhCFWBwx2ovsEIPfTPFdxBQCe0e9rlWgZfT_gVEA=s96-c",
+          "uid": "tU79uxYrxMUkaMe16YAFsibunLt1"
+        },
+        "가성비": 3.8,
+        "리뷰": "재료가 싱싱해서 좋았습니다.\n",
+        "맛": 3.6,
+        "배달비": 0,
+        "배달시간": 30,
+        "배달여부": false,
+        "서비스": 3.7,
+        "작성시간": 1637473509526,
+        "종합": 4
+      },
+      null,
+      {
+        "query": "X7jVYx31C2jMUCfeLAZm",
+        "user": {
+          "name": "ehrdy",
+          "profile": "https://lh3.googleusercontent.com/a-/AOh14GilfxOj85M_xL8tTvrARqVDYAbkQoDkUSg8fvX-=s96-c",
+          "uid": "HvmPFt5vBWMhg7NK42CBcVAzIlQ2"
+        },
+        "가성비": 3.5,
+        "리뷰": "좋습니다",
+        "맛": 4.1,
+        "배달비": 0,
+        "배달시간": 30,
+        "배달여부": false,
+        "서비스": 3.7,
+        "작성시간": 1637478053457,
+        "종합": 4
+      }
+    ],
+    "comments_count": 2,
     "contact": "054-253-0003",
+    "cost_performance": 3.65,
+    "delivery_availability": "false",
     "distance": 4834,
-    "x": 129.3797,
-    "y": 36.06057,
+    "dong": "두호동",
+    "flavor": 3.8499999999999996,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "11:30",
+          "15:30"
+        ],
+        [
+          "17:00",
+          "20:00"
+        ]
+      ],
+      "목": [
+        [
+          "11:30",
+          "15:30"
+        ],
+        [
+          "17:00",
+          "20:00"
+        ]
+      ],
+      "수": [
+        [
+          "11:30",
+          "15:30"
+        ],
+        [
+          "17:00",
+          "20:00"
+        ]
+      ],
+      "월": [
+        [
+          "11:30",
+          "15:30"
+        ],
+        [
+          "17:00",
+          "20:00"
+        ]
+      ],
+      "일": [
+        [
+          "11:30",
+          "15:30"
+        ],
+        [
+          "17:00",
+          "20:00"
+        ]
+      ],
+      "토": [
+        [
+          "11:30",
+          "15:30"
+        ],
+        [
+          "17:00",
+          "20:00"
+        ]
+      ],
+      "화": [
+        [
+          "11:30",
+          "15:30"
+        ],
+        [
+          "17:00",
+          "20:00"
+        ]
+      ]
+    },
+    "id": 3,
+    "likes": 0,
     "link": "http://place.map.kakao.com/1785096952",
     "menu": [
       "모듬초밥B: 14900",
@@ -118,33 +462,30 @@
       "규동: 9500",
       "연어샐러드(소): 9000"
     ],
+    "name": "가정초밥",
+    "official_name": "가정초밥 영일대점",
     "opening_hours": [
       "매일 11:30 ~ 20:00",
       "매일 브레이크타임 15:30 ~ 17:00"
     ],
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
-    "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "service": 3.7,
+    "total": 4,
+    "x": 129.3797,
+    "y": 36.06057
   },
   {
-    "name": "감자바위",
-    "id": 4,
-    "official_name": "감자바위",
-    "category": "한식",
-    "dong": "장성동",
     "address": "경북 포항시 북구 장량로127번길 3",
+    "bookmark_count": 0,
+    "category": "한식",
+    "comments_count": 0,
     "contact": "054-252-7949",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 2429,
-    "x": 129.3942,
-    "y": 36.08229,
+    "dong": "장성동",
+    "flavor": 0,
+    "id": 4,
+    "likes": 0,
     "link": "http://place.map.kakao.com/15269541",
     "menu": [
       "곤드레나물밥: 6000",
@@ -153,30 +494,26 @@
       "황태구이: 10000",
       "감자전: 6000"
     ],
-    "opening_hours": null,
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
+    "name": "감자바위",
+    "official_name": "감자바위",
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3942,
+    "y": 36.08229
   },
   {
-    "name": "계림상황삼계탕",
-    "id": 5,
-    "official_name": "계림상황삼계탕",
-    "category": "육류 / 고기",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 천마로46번길 34",
+    "bookmark_count": 0,
+    "category": "육류 / 고기",
+    "comments_count": 0,
     "contact": "054-255-3773",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 2808,
-    "x": 129.4008,
-    "y": 36.08053,
+    "dong": "양덕동",
+    "flavor": 0,
+    "id": 5,
+    "likes": 0,
     "link": "http://place.map.kakao.com/83680152",
     "menu": [
       "닭불고기: 15000",
@@ -185,30 +522,100 @@
       "들깨삼계탕: 15000",
       "흑마늘삼계탕: 15000"
     ],
-    "opening_hours": null,
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
+    "name": "계림상황삼계탕",
+    "official_name": "계림상황삼계탕",
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.4008,
+    "y": 36.08053
   },
   {
-    "name": "고즈넉",
-    "id": 6,
-    "official_name": "고즈넉",
-    "category": "한식",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 장량주택로18번길 2-1",
+    "bookmark_count": 0,
+    "category": "한식",
+    "comments_count": 0,
     "contact": "없음",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 1654,
-    "x": 129.3902,
-    "y": 36.08879,
+    "dong": "양덕동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "12:00",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "목": [
+        [
+          "12:00",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "수": [
+        [
+          "12:00",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "월": [
+        [
+          "12:00",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "일": [
+        [
+          "12:00",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "토": [
+        [
+          "12:00",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "화": [
+        [
+          "12:00",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ]
+    },
+    "id": 6,
+    "likes": 0,
     "link": "http://place.map.kakao.com/2027521228",
     "menu": [
       "통영 멍게 비빔밥: 13500",
@@ -217,33 +624,76 @@
       "죽도 리조토: 16500",
       "수비드 목살 스테이크: 16000"
     ],
+    "name": "고즈넉",
+    "official_name": "고즈넉",
     "opening_hours": [
       "매일 12:00 ~ 21:30",
       "매일 브레이크타임 15:00 ~ 17:00"
     ],
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3902,
+    "y": 36.08879
   },
   {
-    "name": "곤지곤지",
-    "id": 7,
-    "official_name": "곤지곤지",
-    "category": "한식",
-    "dong": "장성동",
     "address": "경북 포항시 북구 장량로 17",
+    "bookmark_count": 0,
+    "category": "한식",
+    "comments_count": 0,
     "contact": "054-256-2100",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 2351,
-    "x": 129.3821,
-    "y": 36.08296,
+    "dong": "장성동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "11:00",
+          "21:00"
+        ]
+      ],
+      "목": [
+        [
+          "11:00",
+          "21:00"
+        ]
+      ],
+      "수": [
+        [
+          "11:00",
+          "21:00"
+        ]
+      ],
+      "월": [
+        [
+          "11:00",
+          "21:00"
+        ]
+      ],
+      "일": [
+        [
+          "11:00",
+          "21:00"
+        ]
+      ],
+      "토": [
+        [
+          "11:00",
+          "21:00"
+        ]
+      ],
+      "화": [
+        [
+          "11:00",
+          "21:00"
+        ]
+      ]
+    },
+    "id": 7,
+    "likes": 0,
     "link": "http://place.map.kakao.com/26591085",
     "menu": [
       "강된장자연보리밥: 7000",
@@ -251,30 +701,73 @@
       "곤드레돌솥밥: 10000",
       "더덕돌솥밥: 10000"
     ],
+    "name": "곤지곤지",
+    "official_name": "곤지곤지",
     "opening_hours": "매일 11:00 ~ 21:00",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3821,
+    "y": 36.08296
   },
   {
-    "name": "광둥중국요리",
-    "id": 8,
-    "official_name": "광둥중국요리",
-    "category": "중식",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 장량로262번길 28",
+    "bookmark_count": 0,
+    "category": "중식",
+    "comments_count": 0,
     "contact": "054-251-7710",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 3250,
-    "x": 129.4096,
-    "y": 36.08014,
+    "dong": "양덕동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ],
+      "목": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ],
+      "수": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ],
+      "월": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ],
+      "일": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ],
+      "토": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ],
+      "화": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ]
+    },
+    "id": 8,
+    "likes": 0,
     "link": "http://place.map.kakao.com/1175124553",
     "menu": [
       "짜장면: 4000",
@@ -283,30 +776,73 @@
       "탕수육(소): 20000",
       "깐풍육: 23000"
     ],
+    "name": "광둥중국요리",
+    "official_name": "광둥중국요리",
     "opening_hours": "매일 11:00 ~ 22:00",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.4096,
+    "y": 36.08014
   },
   {
-    "name": "교동면옥",
-    "id": 9,
-    "official_name": "교동면옥 포항북구점",
-    "category": "한식",
-    "dong": "장성동",
     "address": "경북 포항시 북구 신덕로 291",
+    "bookmark_count": 0,
+    "category": "한식",
+    "comments_count": 0,
     "contact": "054-241-3339",
+    "cost_performance": 0,
+    "delivery_availability": "true",
     "distance": 1695,
-    "x": 129.3844,
-    "y": 36.0886,
+    "dong": "장성동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "10:30",
+          "21:30"
+        ]
+      ],
+      "목": [
+        [
+          "10:30",
+          "21:30"
+        ]
+      ],
+      "수": [
+        [
+          "10:30",
+          "21:30"
+        ]
+      ],
+      "월": [
+        [
+          "10:30",
+          "21:30"
+        ]
+      ],
+      "일": [
+        [
+          "10:30",
+          "21:30"
+        ]
+      ],
+      "토": [
+        [
+          "10:30",
+          "21:30"
+        ]
+      ],
+      "화": [
+        [
+          "10:30",
+          "21:30"
+        ]
+      ]
+    },
+    "id": 9,
+    "likes": 0,
     "link": "http://place.map.kakao.com/1124743640",
     "menu": [
       "육전물냉면: 8000",
@@ -316,30 +852,67 @@
       "가마솥갈비찜(중): 39000",
       "가마솥갈비찜(대): 49000"
     ],
+    "name": "교동면옥",
+    "official_name": "교동면옥 포항북구점",
     "opening_hours": "매일 10:30 ~ 21:30",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "true",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3844,
+    "y": 36.0886
   },
   {
-    "name": "교동짬뽕",
-    "id": 10,
-    "official_name": "교동짬뽕 포항점",
-    "category": "중식",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 장량로157번길 37",
+    "bookmark_count": 0,
+    "category": "중식",
+    "comments_count": 0,
     "contact": "054-252-1472",
+    "cost_performance": 0,
+    "delivery_availability": "true",
     "distance": 2193,
-    "x": 129.3974,
-    "y": 36.08535,
+    "dong": "양덕동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "11:00",
+          "21:00"
+        ]
+      ],
+      "목": [
+        [
+          "11:00",
+          "21:00"
+        ]
+      ],
+      "수": [
+        [
+          "11:00",
+          "21:00"
+        ]
+      ],
+      "일": [
+        [
+          "11:00",
+          "21:00"
+        ]
+      ],
+      "토": [
+        [
+          "11:00",
+          "21:00"
+        ]
+      ],
+      "화": [
+        [
+          "11:00",
+          "21:00"
+        ]
+      ]
+    },
+    "id": 10,
+    "likes": 0,
     "link": "http://place.map.kakao.com/1945573725",
     "menu": [
       "하얀짬뽕: 8000",
@@ -349,30 +922,73 @@
       "군만두: 5000",
       "탕수육 (소/반): 7000"
     ],
+    "name": "교동짬뽕",
+    "official_name": "교동짬뽕 포항점",
     "opening_hours": "화~일 11:00 ~ 21:00",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "true",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3974,
+    "y": 36.08535
   },
   {
-    "name": "구가연어",
-    "id": 11,
-    "official_name": "구가연어",
-    "category": "술집",
-    "dong": "항구동",
     "address": "경북 포항시 북구 해안로 67-1",
+    "bookmark_count": 0,
+    "category": "돈까스 / 회 / 일식",
+    "comments_count": 0,
     "contact": "054-243-6733",
+    "cost_performance": 0,
+    "delivery_availability": "true",
     "distance": 5503,
-    "x": 129.3771,
-    "y": 36.05481,
+    "dong": "항구동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "18:00",
+          "03:00"
+        ]
+      ],
+      "목": [
+        [
+          "18:00",
+          "03:00"
+        ]
+      ],
+      "수": [
+        [
+          "18:00",
+          "03:00"
+        ]
+      ],
+      "월": [
+        [
+          "18:00",
+          "03:00"
+        ]
+      ],
+      "일": [
+        [
+          "18:00",
+          "03:00"
+        ]
+      ],
+      "토": [
+        [
+          "18:00",
+          "03:00"
+        ]
+      ],
+      "화": [
+        [
+          "18:00",
+          "03:00"
+        ]
+      ]
+    },
+    "id": 11,
+    "likes": 0,
     "link": "http://place.map.kakao.com/2107553786",
     "menu": [
       "숙성연어사시미(2인): 21000",
@@ -381,61 +997,103 @@
       "한우타다키: 27000",
       "꽃게오뎅나베: 18000"
     ],
+    "name": "구가연어",
+    "official_name": "구가연어",
     "opening_hours": "매일 18:00 ~ 03:00",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "true",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3771,
+    "y": 36.05481
   },
   {
-    "name": "구루마",
-    "id": 12,
-    "official_name": "구루마",
-    "category": "돈까스 / 회 / 일식",
-    "dong": "양덕동",
-    "address": "경북 포항시 북구 장량주택로14번길 3",
-    "contact": "없음",
-    "distance": 1670,
-    "x": 129.3901,
-    "y": 36.08864,
-    "link": "http://place.map.kakao.com/1460241345",
-    "menu": [
-      "부타시오라멘: 8000",
-      "아카이부타시오라멘: 9000",
-      "네기라멘: 9000",
-      "태성라멘: 9000"
-    ],
-    "opening_hours": null,
-    "picture": null,
-    "likes": 0,
+    "address": "경북 포항시 북구 장량로 115",
     "bookmark_count": 0,
-    "service": 0,
+    "category": "한식",
     "comments_count": 0,
-    "flavor": 0,
+    "contact": "054-253-3400",
     "cost_performance": 0,
     "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "distance": 2429,
+    "dong": "장성동",
+    "flavor": 0,
+    "id": 12,
+    "likes": 0,
+    "link": "http://place.map.kakao.com/24936055",
+    "menu": [
+      "함흥물냉면: 7000",
+      "함흥비빔냉면: 7000",
+      "함흥회비빔냉면: 8000",
+      "갈비탕: 9000",
+      "해물갈비찜: 25000",
+      "닭도리탕 (대): 25000",
+      "가오리회무침: 15000"
+    ],
+    "name": "화담면옥",
+    "official_name": "화담면옥",
+    "service": 0,
+    "total": 0,
+    "x": 129.3929,
+    "y": 36.08207
   },
   {
-    "name": "구이촌",
-    "id": 13,
-    "official_name": "구이촌",
-    "category": "한식",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 양덕남로 87",
+    "bookmark_count": 0,
+    "category": "한식",
+    "comments_count": 0,
     "contact": "없음",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 3018,
-    "x": 129.4017,
-    "y": 36.07878,
+    "dong": "양덕동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "16:00",
+          "01:00"
+        ]
+      ],
+      "목": [
+        [
+          "16:00",
+          "01:00"
+        ]
+      ],
+      "수": [
+        [
+          "16:00",
+          "01:00"
+        ]
+      ],
+      "월": [
+        [
+          "16:00",
+          "01:00"
+        ]
+      ],
+      "일": [
+        [
+          "16:00",
+          "01:00"
+        ]
+      ],
+      "토": [
+        [
+          "16:00",
+          "01:00"
+        ]
+      ],
+      "화": [
+        [
+          "16:00",
+          "01:00"
+        ]
+      ]
+    },
+    "id": 13,
+    "likes": 0,
     "link": "http://place.map.kakao.com/18580546",
     "menu": [
       "바다장어구이 1kg: 60000",
@@ -445,30 +1103,34 @@
       "장어튀김: 20000",
       "장어탕: 7000"
     ],
+    "name": "구이촌",
+    "official_name": "구이촌",
     "opening_hours": "매일 16:00 ~ 01:00",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.4017,
+    "y": 36.07878
   },
   {
-    "name": "그레이비",
-    "id": 14,
-    "official_name": "그레이비",
-    "category": "양식",
-    "dong": "환호동",
     "address": "경북 포항시 북구 삼호로 460",
+    "bookmark_count": 0,
+    "category": "양식",
+    "comments_count": 0,
     "contact": "054-256-8897",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 3890,
-    "x": 129.3982,
-    "y": 36.06954,
+    "dong": "환호동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "휴무일: 월요일",
+      "breakDay": [
+        1
+      ],
+      "onlyBreak": true
+    },
+    "id": 14,
+    "likes": 0,
     "link": "http://place.map.kakao.com/27457932",
     "menu": [
       "새우 로제 파스타: 16000",
@@ -477,56 +1139,94 @@
       "수비드 살치살 스테이크(200g): 36000",
       "루꼴라 프로슈토 피자: 17000"
     ],
+    "name": "그레이비",
+    "official_name": "그레이비",
     "opening_hours": "휴무일: 월요일",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3982,
+    "y": 36.06954
   },
   {
-    "name": "김태주선산곱창",
-    "id": 15,
-    "official_name": "김태주선산곱창 두호점",
-    "category": "육류 / 고기",
-    "dong": "두호동",
     "address": "경북 포항시 북구 삼호로 210",
-    "contact": "054-246-4007",
-    "distance": 5234,
-    "x": 129.3776,
-    "y": 36.0572,
-    "link": "http://place.map.kakao.com/21419907",
-    "menu": null,
-    "opening_hours": null,
-    "picture": null,
-    "likes": 0,
     "bookmark_count": 0,
-    "service": 0,
+    "category": "육류 / 고기",
     "comments_count": 0,
-    "flavor": 0,
+    "contact": "054-246-4007",
     "cost_performance": 0,
     "delivery_availability": "true",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "distance": 5234,
+    "dong": "두호동",
+    "flavor": 0,
+    "id": 15,
+    "likes": 0,
+    "link": "http://place.map.kakao.com/21419907",
+    "name": "김태주선산곱창",
+    "official_name": "김태주선산곱창 두호점",
+    "service": 0,
+    "total": 0,
+    "x": 129.3776,
+    "y": 36.0572
   },
   {
-    "name": "논스탠다드",
-    "id": 16,
-    "official_name": "논스탠다드",
-    "category": "카페 / 디저트",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 장량로 144",
+    "bookmark_count": 1,
+    "category": "카페 / 디저트",
+    "comments_count": 0,
     "contact": "054-247-8484",
+    "cost_performance": 0,
+    "delivery_availability": "true",
     "distance": 2551,
-    "x": 129.396,
-    "y": 36.08155,
+    "dong": "양덕동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "09:30",
+          "22:00"
+        ]
+      ],
+      "목": [
+        [
+          "09:30",
+          "22:00"
+        ]
+      ],
+      "수": [
+        [
+          "09:30",
+          "22:00"
+        ]
+      ],
+      "월": [
+        [
+          "09:30",
+          "22:00"
+        ]
+      ],
+      "일": [
+        [
+          "09:30",
+          "22:00"
+        ]
+      ],
+      "토": [
+        [
+          "09:30",
+          "22:00"
+        ]
+      ],
+      "화": [
+        [
+          "09:30",
+          "22:00"
+        ]
+      ]
+    },
+    "id": 16,
+    "likes": 0,
     "link": "http://place.map.kakao.com/86674512",
     "menu": [
       "아메리카노: 3900",
@@ -536,62 +1236,133 @@
       "리얼 초코라떼: 5000",
       "대만 흑당 허블 밀크티: 5500"
     ],
+    "name": "논스탠다드",
+    "official_name": "논스탠다드",
     "opening_hours": "매일 09:30 ~ 22:00",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "true",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.396,
+    "y": 36.08155
   },
   {
-    "name": "달인의찜닭",
-    "id": 17,
-    "official_name": "달인의찜닭 양덕점",
-    "category": "육류 / 고기",
-    "dong": "양덕동",
-    "address": "경북 포항시 북구 천마로 108",
-    "contact": "054-251-0116",
-    "distance": 2119,
-    "x": 129.3971,
-    "y": 36.08597,
-    "link": "http://place.map.kakao.com/25971351",
-    "menu": [
-      "달찜(소): 16000",
-      "빨간달찜(소): 16000",
-      "순살달찜(소): 18000",
-      "치즈순살달찜(소): 21000",
-      "쪼림닭: 25000"
-    ],
-    "opening_hours": "매일 11:00 ~ 22:30",
-    "picture": null,
-    "likes": 0,
+    "address": "경북 포항시 북구 장량중앙로 62",
     "bookmark_count": 0,
-    "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "true",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
-  },
-  {
-    "name": "대원도토리수제비",
-    "id": 18,
-    "official_name": "대원도토리수제비",
     "category": "한식",
+    "comments_count": 0,
+    "contact": "없음",
+    "cost_performance": 0,
+    "delivery_availability": "true",
+    "distance": 1540,
     "dong": "양덕동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "11:00",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "22:00"
+        ]
+      ],
+      "목": [
+        [
+          "11:00",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "22:00"
+        ]
+      ],
+      "수": [
+        [
+          "11:00",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "22:00"
+        ]
+      ],
+      "월": [
+        [
+          "11:00",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "22:00"
+        ]
+      ],
+      "일": [
+        [
+          "11:00",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "22:00"
+        ]
+      ],
+      "토": [
+        [
+          "11:00",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "22:00"
+        ]
+      ],
+      "화": [
+        [
+          "11:00",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "22:00"
+        ]
+      ]
+    },
+    "id": 17,
+    "likes": 0,
+    "link": "http://place.map.kakao.com/242181636",
+    "menu": [
+      "참숯구이 매콤삼겹 덮밥: 10000",
+      "참숯구이 부채살 스테이크 덮밥: 15000",
+      "성게알+단새우: 19000",
+      "성게알+스테이크: 19000",
+      "나폴리탄 토마토 파스타: 12000"
+    ],
+    "name": "화목정",
+    "official_name": "화목정",
+    "opening_hours": [
+      "매일 11:00 ~ 22:00",
+      "매일 브레이크타임 15:00 ~ 17:00"
+    ],
+    "service": 0,
+    "total": 0,
+    "x": 129.3884,
+    "y": 36.08971
+  },
+  {
     "address": "경북 포항시 북구 천마로46번길 28",
+    "bookmark_count": 0,
+    "category": "한식",
+    "comments_count": 0,
     "contact": "054-241-0656",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 2785,
-    "x": 129.4002,
-    "y": 36.08052,
+    "dong": "양덕동",
+    "flavor": 0,
+    "id": 18,
+    "likes": 0,
     "link": "http://place.map.kakao.com/17801304",
     "menu": [
       "파전: 8000",
@@ -600,30 +1371,100 @@
       "고기만두: 5000",
       "새우만두: 6000"
     ],
-    "opening_hours": null,
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
+    "name": "대원도토리수제비",
+    "official_name": "대원도토리수제비",
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.4002,
+    "y": 36.08052
   },
   {
-    "name": "댓끼리짬뽕",
-    "id": 19,
-    "official_name": "댓끼리짬뽕 양덕점",
-    "category": "중식",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 장량로139번길 20",
+    "bookmark_count": 0,
+    "category": "중식",
+    "comments_count": 0,
     "contact": "054-614-2614",
+    "cost_performance": 0,
+    "delivery_availability": "true",
     "distance": 2300,
-    "x": 129.3953,
-    "y": 36.08373,
+    "dong": "양덕동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "11:30",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "22:00"
+        ]
+      ],
+      "목": [
+        [
+          "11:30",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "22:00"
+        ]
+      ],
+      "수": [
+        [
+          "11:30",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "22:00"
+        ]
+      ],
+      "월": [
+        [
+          "11:30",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "22:00"
+        ]
+      ],
+      "일": [
+        [
+          "11:30",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "22:00"
+        ]
+      ],
+      "토": [
+        [
+          "11:30",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "22:00"
+        ]
+      ],
+      "화": [
+        [
+          "11:30",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "22:00"
+        ]
+      ]
+    },
+    "id": 19,
+    "likes": 0,
     "link": "http://place.map.kakao.com/1178567483",
     "menu": [
       "댓끼리짬뽕(밥): 7000",
@@ -633,63 +1474,110 @@
       "하얀짬뽕: 9000",
       "하얀짬뽕밥: 9500"
     ],
+    "name": "댓끼리짬뽕",
+    "official_name": "댓끼리짬뽕 양덕점",
     "opening_hours": [
       "매일 11:30 ~ 22:00",
       "매일 브레이크타임 15:00 ~ 17:00"
     ],
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "true",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3953,
+    "y": 36.08373
   },
   {
-    "name": "도르리식당",
-    "id": 20,
-    "official_name": "도르리식당",
-    "category": "한식",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 천마로 104-7",
+    "bookmark_count": 1,
+    "category": "한식",
+    "comments_count": 0,
     "contact": "없음",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 2133,
-    "x": 129.3974,
-    "y": 36.08595,
+    "dong": "양덕동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "휴무일: 일요일",
+      "breakDay": [
+        0
+      ],
+      "onlyBreak": true
+    },
+    "id": 20,
+    "likes": 0,
     "link": "http://place.map.kakao.com/93380008",
     "menu": [
       "김치찌개: 0",
       "제육볶음: 0",
       "수육: 0"
     ],
+    "name": "도르리식당",
+    "official_name": "도르리식당",
     "opening_hours": "휴무일: 일요일",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3974,
+    "y": 36.08595
   },
   {
-    "name": "동궁찜닭",
-    "id": 21,
-    "official_name": "동궁찜닭 포항양덕점",
-    "category": "육류 / 고기",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 장량로 199",
+    "bookmark_count": 0,
+    "category": "육류 / 고기",
+    "comments_count": 0,
     "contact": "054-254-7787",
+    "cost_performance": 0,
+    "delivery_availability": "true",
     "distance": 2708,
-    "x": 129.4024,
-    "y": 36.08217,
+    "dong": "양덕동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "10:00",
+          "22:00"
+        ]
+      ],
+      "목": [
+        [
+          "10:00",
+          "22:00"
+        ]
+      ],
+      "수": [
+        [
+          "10:00",
+          "22:00"
+        ]
+      ],
+      "월": [
+        [
+          "10:00",
+          "22:00"
+        ]
+      ],
+      "일": [
+        [
+          "10:00",
+          "22:00"
+        ]
+      ],
+      "토": [
+        [
+          "10:00",
+          "22:00"
+        ]
+      ],
+      "화": [
+        [
+          "10:00",
+          "22:00"
+        ]
+      ]
+    },
+    "id": 21,
+    "likes": 0,
     "link": "http://place.map.kakao.com/874740524",
     "menu": [
       "동궁황금짐닭 (반마리): 16000",
@@ -707,30 +1595,73 @@
       "동궁닭도리탕 (한마리): 22000",
       "동궁닭도리탕 (한마리 반): 29000"
     ],
+    "name": "동궁찜닭",
+    "official_name": "동궁찜닭 포항양덕점",
     "opening_hours": "매일 10:00 ~ 22:00",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "true",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.4024,
+    "y": 36.08217
   },
   {
-    "name": "두꺼비객잔",
-    "id": 22,
-    "official_name": "두꺼비객잔",
-    "category": "중식",
-    "dong": "두호동",
     "address": "경북 포항시 북구 해안로 123",
+    "bookmark_count": 0,
+    "category": "중식",
+    "comments_count": 0,
     "contact": "054-249-7710",
+    "cost_performance": 0,
+    "delivery_availability": "true",
     "distance": 4936,
-    "x": 129.3792,
-    "y": 36.0597,
+    "dong": "두호동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "17:00",
+          "03:00"
+        ]
+      ],
+      "목": [
+        [
+          "17:00",
+          "03:00"
+        ]
+      ],
+      "수": [
+        [
+          "17:00",
+          "03:00"
+        ]
+      ],
+      "월": [
+        [
+          "17:00",
+          "03:00"
+        ]
+      ],
+      "일": [
+        [
+          "17:00",
+          "03:00"
+        ]
+      ],
+      "토": [
+        [
+          "17:00",
+          "03:00"
+        ]
+      ],
+      "화": [
+        [
+          "17:00",
+          "03:00"
+        ]
+      ]
+    },
+    "id": 22,
+    "likes": 0,
     "link": "http://place.map.kakao.com/19819827",
     "menu": [
       "짜장면: 5000",
@@ -739,30 +1670,34 @@
       "깐풍기 (소): 25000",
       "유린기: 27000"
     ],
+    "name": "두꺼비객잔",
+    "official_name": "두꺼비객잔",
     "opening_hours": "매일 17:00 ~ 03:00",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "true",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3792,
+    "y": 36.0597
   },
   {
-    "name": "두남자찜닭",
-    "id": 23,
-    "official_name": "두남자찜닭 포항양덕점",
-    "category": "육류 / 고기",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 장량로 144",
+    "bookmark_count": 0,
+    "category": "육류 / 고기",
+    "comments_count": 0,
     "contact": "054-251-1258",
+    "cost_performance": 0,
+    "delivery_availability": "true",
     "distance": 2551,
-    "x": 129.396,
-    "y": 36.08155,
+    "dong": "양덕동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "휴무일: 월요일",
+      "breakDay": [
+        1
+      ],
+      "onlyBreak": true
+    },
+    "id": 23,
+    "likes": 0,
     "link": "http://place.map.kakao.com/26838967",
     "menu": [
       "빨간마늘찜닭 (뼈있는 한마리): 25000",
@@ -774,30 +1709,73 @@
       "간장마늘찜닭 (뼈없는 한마리): 27000",
       "간장마늘찜닭 (뼈없는 반마리): 20000"
     ],
+    "name": "두남자찜닭",
+    "official_name": "두남자찜닭 포항양덕점",
     "opening_hours": "휴무일: 월요일",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "true",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.396,
+    "y": 36.08155
   },
   {
-    "name": "뚝배기이탈리아",
-    "id": 24,
-    "official_name": "뚝배기이탈리아 북부점",
-    "category": "양식",
-    "dong": "항구동",
     "address": "경북 포항시 북구 해안로 63-1",
+    "bookmark_count": 0,
+    "category": "양식",
+    "comments_count": 0,
     "contact": "054-247-3999",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 5546,
-    "x": 129.377,
-    "y": 36.05444,
+    "dong": "항구동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "11:50",
+          "21:30"
+        ]
+      ],
+      "목": [
+        [
+          "11:50",
+          "21:30"
+        ]
+      ],
+      "수": [
+        [
+          "11:50",
+          "21:30"
+        ]
+      ],
+      "월": [
+        [
+          "11:50",
+          "21:30"
+        ]
+      ],
+      "일": [
+        [
+          "11:50",
+          "21:30"
+        ]
+      ],
+      "토": [
+        [
+          "11:50",
+          "21:30"
+        ]
+      ],
+      "화": [
+        [
+          "11:50",
+          "21:30"
+        ]
+      ]
+    },
+    "id": 24,
+    "likes": 0,
     "link": "http://place.map.kakao.com/19392085",
     "menu": [
       "마르게리타 피자: 11500",
@@ -806,30 +1784,73 @@
       "볼골레 파스타: 11000",
       "오리엔탈 목살 스테이크 (200g): 13500"
     ],
+    "name": "뚝배기이탈리아",
+    "official_name": "뚝배기이탈리아 북부점",
     "opening_hours": "매일 11:50 ~ 21:30",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.377,
+    "y": 36.05444
   },
   {
-    "name": "뜨돈",
-    "id": 25,
-    "official_name": "뜨돈 포항양덕점",
-    "category": "돈까스 / 회 / 일식",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 장량로 215",
+    "bookmark_count": 0,
+    "category": "돈까스 / 회 / 일식",
+    "comments_count": 0,
     "contact": "054-254-1230",
+    "cost_performance": 0,
+    "delivery_availability": "true",
     "distance": 2788,
-    "x": 129.4041,
-    "y": 36.08214,
+    "dong": "양덕동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "11:30",
+          "21:30"
+        ]
+      ],
+      "목": [
+        [
+          "11:30",
+          "21:30"
+        ]
+      ],
+      "수": [
+        [
+          "11:30",
+          "21:30"
+        ]
+      ],
+      "월": [
+        [
+          "11:30",
+          "21:30"
+        ]
+      ],
+      "일": [
+        [
+          "11:30",
+          "21:30"
+        ]
+      ],
+      "토": [
+        [
+          "11:30",
+          "21:30"
+        ]
+      ],
+      "화": [
+        [
+          "11:30",
+          "21:30"
+        ]
+      ]
+    },
+    "id": 25,
+    "likes": 0,
     "link": "http://place.map.kakao.com/1385388743",
     "menu": [
       "홈그레인 샐러드 돈까스: 11900",
@@ -840,59 +1861,99 @@
       "뜨돈 떡배기가스: 9900",
       "뜨돈 데리야끼: 9500"
     ],
+    "name": "뜨돈",
+    "official_name": "뜨돈 포항양덕점",
     "opening_hours": "매일 11:30 ~ 21:30",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "true",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.4041,
+    "y": 36.08214
   },
   {
-    "name": "라라코스트",
-    "id": 26,
-    "official_name": "라라코스트 양덕점",
-    "category": "양식",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 장량로158번길 17",
+    "bookmark_count": 0,
+    "category": "양식",
+    "comments_count": 0,
     "contact": "070-8226-0365",
+    "cost_performance": 0,
+    "delivery_availability": "true",
     "distance": 2757,
-    "x": 129.3979,
-    "y": 36.08007,
+    "dong": "양덕동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ],
+      "목": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ],
+      "수": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ],
+      "월": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ],
+      "일": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ],
+      "토": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ],
+      "화": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ]
+    },
+    "id": 26,
+    "likes": 0,
     "link": "http://place.map.kakao.com/21827032",
     "menu": [
       "포크 찹 라이스: 13900",
       "아메리칸 치즈 파스타: 10900"
     ],
+    "name": "라라코스트",
+    "official_name": "라라코스트 양덕점",
     "opening_hours": "매일 11:00 ~ 22:00",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "true",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3979,
+    "y": 36.08007
   },
   {
-    "name": "라멘구루마",
-    "id": 27,
-    "official_name": "구루마",
-    "category": "돈까스 / 회 / 일식",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 장량주택로14번길 3",
+    "bookmark_count": 0,
+    "category": "돈까스 / 회 / 일식",
+    "comments_count": 0,
     "contact": "없음",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 1670,
-    "x": 129.3901,
-    "y": 36.08864,
+    "dong": "양덕동",
+    "flavor": 0,
+    "id": 27,
+    "likes": 0,
     "link": "http://place.map.kakao.com/1460241345",
     "menu": [
       "부타시오라멘: 8000",
@@ -900,58 +1961,96 @@
       "네기라멘: 9000",
       "태성라멘: 9000"
     ],
-    "opening_hours": null,
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
+    "name": "라멘구루마",
+    "official_name": "구루마",
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3901,
+    "y": 36.08864
   },
   {
-    "name": "라쿵푸마라탕",
-    "id": 28,
-    "official_name": "라쿵푸마라탕",
-    "category": "중식",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 천마로46번길 33",
+    "bookmark_count": 0,
+    "category": "중식",
+    "comments_count": 0,
     "contact": "054-255-1245",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 2767,
-    "x": 129.4006,
-    "y": 36.08087,
+    "dong": "양덕동",
+    "flavor": 0,
+    "id": 28,
+    "likes": 0,
     "link": "http://place.map.kakao.com/1765676319",
     "menu": [
       "마라탕: 0"
     ],
-    "opening_hours": null,
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
+    "name": "라쿵푸마라탕",
+    "official_name": "라쿵푸마라탕",
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.4006,
+    "y": 36.08087
   },
   {
-    "name": "류&돈까스",
-    "id": 29,
-    "official_name": "류&돈까스",
-    "category": "돈까스 / 회 / 일식",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 장량로157번길 7",
+    "bookmark_count": 0,
+    "category": "돈까스 / 회 / 일식",
+    "comments_count": 0,
     "contact": "054-255-0225",
+    "cost_performance": 0,
+    "delivery_availability": "true",
     "distance": 2503,
-    "x": 129.3975,
-    "y": 36.08238,
+    "dong": "양덕동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "11:30",
+          "21:00"
+        ]
+      ],
+      "목": [
+        [
+          "11:30",
+          "21:00"
+        ]
+      ],
+      "수": [
+        [
+          "11:30",
+          "21:00"
+        ]
+      ],
+      "월": [
+        [
+          "11:30",
+          "21:00"
+        ]
+      ],
+      "일": [
+        [
+          "11:30",
+          "21:00"
+        ]
+      ],
+      "토": [
+        [
+          "11:30",
+          "21:00"
+        ]
+      ],
+      "화": [
+        [
+          "11:30",
+          "21:00"
+        ]
+      ]
+    },
+    "id": 29,
+    "likes": 0,
     "link": "http://place.map.kakao.com/24371323",
     "menu": [
       "생선가스: 9000",
@@ -959,30 +2058,73 @@
       "해물라멘: 9000",
       "냉모밀돈까스: 11000"
     ],
+    "name": "류&돈까스",
+    "official_name": "류&돈까스",
     "opening_hours": "매일 11:30 ~ 21:00",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "true",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3975,
+    "y": 36.08238
   },
   {
-    "name": "리틀타이키친",
-    "id": 30,
-    "official_name": "리틀타이키친",
-    "category": "아시안",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 장량로174번길 19",
+    "bookmark_count": 0,
+    "category": "아시안",
+    "comments_count": 0,
     "contact": "054-232-9295",
+    "cost_performance": 0,
+    "delivery_availability": "true",
     "distance": 2817,
-    "x": 129.3997,
-    "y": 36.08003,
+    "dong": "양덕동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "11:30",
+          "22:00"
+        ]
+      ],
+      "목": [
+        [
+          "11:30",
+          "22:00"
+        ]
+      ],
+      "수": [
+        [
+          "11:30",
+          "22:00"
+        ]
+      ],
+      "월": [
+        [
+          "11:30",
+          "22:00"
+        ]
+      ],
+      "일": [
+        [
+          "11:30",
+          "22:00"
+        ]
+      ],
+      "토": [
+        [
+          "11:30",
+          "22:00"
+        ]
+      ],
+      "화": [
+        [
+          "11:30",
+          "22:00"
+        ]
+      ]
+    },
+    "id": 30,
+    "likes": 0,
     "link": "http://place.map.kakao.com/27344764",
     "menu": [
       "안심샐러드: 14900",
@@ -1006,30 +2148,27 @@
       "팟타이: 10900",
       "팟시유: 10900"
     ],
+    "name": "리틀타이키친",
+    "official_name": "리틀타이키친",
     "opening_hours": "매일 11:30 ~ 22:00",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "true",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3997,
+    "y": 36.08003
   },
   {
-    "name": "마장동 뒷고기",
-    "id": 31,
-    "official_name": "마장동본가뒷고기",
-    "category": "육류 / 고기",
-    "dong": "장성동",
     "address": "경북 포항시 북구 법원로11번길 3",
+    "bookmark_count": 0,
+    "category": "육류 / 고기",
+    "comments_count": 0,
     "contact": "054-243-4755",
+    "cost_performance": 0,
+    "delivery_availability": "true",
     "distance": 3066,
-    "x": 129.3859,
-    "y": 36.07602,
+    "dong": "장성동",
+    "flavor": 0,
+    "id": 31,
+    "likes": 0,
     "link": "http://place.map.kakao.com/15749910",
     "menu": [
       "뒷고기 (1인분): 4000",
@@ -1038,30 +2177,72 @@
       "껍데기 (1인분): 3000",
       "돼지꼬리두루치기 (한접시): 8000"
     ],
-    "opening_hours": null,
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
+    "name": "마장동 뒷고기",
+    "official_name": "마장동본가뒷고기",
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "true",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3859,
+    "y": 36.07602
   },
   {
-    "name": "맛찬들왕소금구이",
-    "id": 32,
-    "official_name": "맛찬들왕소금구이 포항양덕점",
-    "category": "육류 / 고기",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 장량로 228",
+    "bookmark_count": 0,
+    "category": "육류 / 고기",
+    "comments_count": 0,
     "contact": "054-256-3566",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 2897,
-    "x": 129.4054,
-    "y": 36.08164,
+    "dong": "양덕동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "12:00",
+          "24:00"
+        ]
+      ],
+      "목": [
+        [
+          "12:00",
+          "24:00"
+        ]
+      ],
+      "수": [
+        [
+          "12:00",
+          "24:00"
+        ]
+      ],
+      "월": [
+        [
+          "12:00",
+          "24:00"
+        ]
+      ],
+      "일": [
+        [
+          "12:00",
+          "24:00"
+        ]
+      ],
+      "토": [
+        [
+          "12:00",
+          "24:00"
+        ]
+      ],
+      "화": [
+        [
+          "12:00",
+          "24:00"
+        ]
+      ]
+    },
+    "id": 32,
+    "likes": 0,
     "link": "http://place.map.kakao.com/26431245",
     "menu": [
       "숙성 생삼겹살 (120g): 9500",
@@ -1070,30 +2251,73 @@
       "한우차돌된장찌개: 5000",
       "특수부위 (100g): 11000"
     ],
+    "name": "맛찬들왕소금구이",
+    "official_name": "맛찬들왕소금구이 포항양덕점",
     "opening_hours": "매일 12:00 ~ 24:00",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.4054,
+    "y": 36.08164
   },
   {
-    "name": "바다원해",
-    "id": 33,
-    "official_name": "바다원해",
-    "category": "돈까스 / 회 / 일식",
-    "dong": "환호동",
     "address": "경북 포항시 북구 해안로 397",
+    "bookmark_count": 0,
+    "category": "돈까스 / 회 / 일식",
+    "comments_count": 0,
     "contact": "054-252-9200",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 3914,
-    "x": 129.4013,
-    "y": 36.07002,
+    "dong": "환호동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ],
+      "목": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ],
+      "수": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ],
+      "월": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ],
+      "일": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ],
+      "토": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ],
+      "화": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ]
+    },
+    "id": 33,
+    "likes": 0,
     "link": "http://place.map.kakao.com/16295190",
     "menu": [
       "바다원해 스페셜 (1인): 600",
@@ -1102,30 +2326,101 @@
       "포항물회: 16000",
       "스페셜물회: 23000"
     ],
+    "name": "바다원해",
+    "official_name": "바다원해",
     "opening_hours": "매일 11:00 ~ 22:00",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.4013,
+    "y": 36.07002
   },
   {
-    "name": "바른초밥",
-    "id": 34,
-    "official_name": "바른초밥",
-    "category": "돈까스 / 회 / 일식",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 천마로 73",
+    "bookmark_count": 0,
+    "category": "돈까스 / 회 / 일식",
+    "comments_count": 0,
     "contact": "054-253-2552",
+    "cost_performance": 0,
+    "delivery_availability": "true",
     "distance": 2398,
-    "x": 129.3965,
-    "y": 36.08312,
+    "dong": "양덕동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "11:30",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "22:00"
+        ]
+      ],
+      "목": [
+        [
+          "11:30",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "22:00"
+        ]
+      ],
+      "수": [
+        [
+          "11:30",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "22:00"
+        ]
+      ],
+      "월": [
+        [
+          "11:30",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "22:00"
+        ]
+      ],
+      "일": [
+        [
+          "11:30",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "22:00"
+        ]
+      ],
+      "토": [
+        [
+          "11:30",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "22:00"
+        ]
+      ],
+      "화": [
+        [
+          "11:30",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "22:00"
+        ]
+      ]
+    },
+    "id": 34,
+    "likes": 0,
     "link": "http://place.map.kakao.com/672458895",
     "menu": [
       "연어사사미: 30000",
@@ -1134,33 +2429,76 @@
       "연어 초밥 SET: 13000",
       "생선 초밥 SET: 13000"
     ],
+    "name": "바른초밥",
+    "official_name": "바른초밥",
     "opening_hours": [
       "매일 11:30 ~ 22:00",
       "매일 브레이크타임 15:00 ~ 17:00"
     ],
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "true",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3965,
+    "y": 36.08312
   },
   {
-    "name": "바벤",
-    "id": 35,
-    "official_name": "바벤",
-    "category": "돈까스 / 회 / 일식",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 장량로158번길 5-3",
+    "bookmark_count": 0,
+    "category": "돈까스 / 회 / 일식",
+    "comments_count": 0,
     "contact": "054-255-3883",
+    "cost_performance": 0,
+    "delivery_availability": "true",
     "distance": 2628,
-    "x": 129.3978,
-    "y": 36.08129,
+    "dong": "양덕동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "11:00",
+          "20:30"
+        ]
+      ],
+      "목": [
+        [
+          "11:00",
+          "20:30"
+        ]
+      ],
+      "수": [
+        [
+          "11:00",
+          "20:30"
+        ]
+      ],
+      "월": [
+        [
+          "11:00",
+          "20:30"
+        ]
+      ],
+      "일": [
+        [
+          "11:00",
+          "20:30"
+        ]
+      ],
+      "토": [
+        [
+          "11:00",
+          "20:30"
+        ]
+      ],
+      "화": [
+        [
+          "11:00",
+          "20:30"
+        ]
+      ]
+    },
+    "id": 35,
+    "likes": 0,
     "link": "http://place.map.kakao.com/2096755240",
     "menu": [
       "소고기덮밥: 8500",
@@ -1169,95 +2507,175 @@
       "돈육김치우동: 8000",
       "우육유부우동: 8000"
     ],
+    "name": "바벤",
+    "official_name": "바벤",
     "opening_hours": "매일 11:00 ~ 20:30",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "true",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3978,
+    "y": 36.08129
   },
   {
-    "name": "배고픈은태",
-    "id": 36,
-    "official_name": "배고픈은태",
-    "category": "양식",
-    "dong": "양덕동",
-    "address": "경북 포항시 북구 천마로46번길 7",
-    "contact": "없음",
-    "distance": 2679,
-    "x": 129.3978,
-    "y": 36.08081,
-    "link": "http://place.map.kakao.com/1384028058",
-    "menu": [
-      "시금치크림파스타: 9900",
-      "매운갈비파스타: 10900",
-      "새우로제파스타: 9900",
-      "칠리새우덮밥: 10900",
-      "돼지갈비찜덮밥: 10900"
-    ],
-    "opening_hours": [
-      "매일 11:00 ~ 21:00",
-      "매일 브레이크타임 14:30 ~ 17:00"
-    ],
-    "picture": null,
-    "likes": 0,
+    "address": "경북 포항시 북구 양학천로 197",
     "bookmark_count": 0,
-    "service": 0,
+    "category": "한식",
     "comments_count": 0,
-    "flavor": 0,
+    "contact": "054-272-6446",
     "cost_performance": 0,
     "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "distance": 8589,
+    "dong": "죽도동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "00:00",
+          "24:00"
+        ]
+      ],
+      "목": [
+        [
+          "00:00",
+          "24:00"
+        ]
+      ],
+      "수": [
+        [
+          "00:00",
+          "24:00"
+        ]
+      ],
+      "월": [
+        [
+          "00:00",
+          "24:00"
+        ]
+      ],
+      "일": [
+        [
+          "00:00",
+          "24:00"
+        ]
+      ],
+      "토": [
+        [
+          "00:00",
+          "24:00"
+        ]
+      ],
+      "화": [
+        [
+          "00:00",
+          "24:00"
+        ]
+      ]
+    },
+    "id": 36,
+    "likes": 0,
+    "link": "http://place.map.kakao.com/21506134",
+    "menu": [
+      "순대국밥: 7000",
+      "찹쌀순대 (중): 14000",
+      "모듬순대 (중): 23000",
+      "순대전골: 25000",
+      "맛보기순대: 7000"
+    ],
+    "name": "황해도순대",
+    "official_name": "황해도순대보쌈",
+    "opening_hours": "매일 00:00 ~ 24:00",
+    "service": 0,
+    "total": 0,
+    "x": 129.3662,
+    "y": 36.02827
   },
   {
-    "name": "백두산양꼬치",
-    "id": 37,
-    "official_name": "백두산양꼬치 양덕점",
-    "category": "중식",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 장량로158번길 6",
+    "bookmark_count": 0,
+    "category": "중식",
+    "comments_count": 0,
     "contact": "054-255-3985",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 2631,
-    "x": 129.3975,
-    "y": 36.08117,
+    "dong": "양덕동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "17:00",
+          "01:00"
+        ]
+      ],
+      "목": [
+        [
+          "17:00",
+          "01:00"
+        ]
+      ],
+      "수": [
+        [
+          "17:00",
+          "01:00"
+        ]
+      ],
+      "월": [
+        [
+          "17:00",
+          "01:00"
+        ]
+      ],
+      "일": [
+        [
+          "17:00",
+          "01:00"
+        ]
+      ],
+      "토": [
+        [
+          "17:00",
+          "01:00"
+        ]
+      ],
+      "화": [
+        [
+          "17:00",
+          "01:00"
+        ]
+      ]
+    },
+    "id": 37,
+    "likes": 0,
     "link": "http://place.map.kakao.com/1647919858",
     "menu": [
       "꿔보뤄우: 18000",
       "닭똥집볶음: 15000",
       "아바이순대: 12000"
     ],
+    "name": "백두산양꼬치",
+    "official_name": "백두산양꼬치 양덕점",
     "opening_hours": "매일 17:00 ~ 01:00",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3975,
+    "y": 36.08117
   },
   {
-    "name": "백록담",
-    "id": 38,
-    "official_name": "백록담 북부점",
-    "category": "치킨",
-    "dong": "항구동",
     "address": "경북 포항시 북구 삼호로 195-1",
+    "bookmark_count": 0,
+    "category": "치킨",
+    "comments_count": 0,
     "contact": "054-248-9595",
+    "cost_performance": 0,
+    "delivery_availability": "true",
     "distance": 5379,
-    "x": 129.3767,
-    "y": 36.05602,
+    "dong": "항구동",
+    "flavor": 0,
+    "id": 38,
+    "likes": 0,
     "link": "http://place.map.kakao.com/10397525",
     "menu": [
       "매콤한 양념 바베큐치킨: 18000",
@@ -1265,30 +2683,128 @@
       "웰빙 마늘간장 바베큐치킨: 18000",
       "불닭 양념 바베큐치킨: 19000"
     ],
-    "opening_hours": null,
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
+    "name": "백록담",
+    "official_name": "백록담 북부점",
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "true",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3767,
+    "y": 36.05602
   },
   {
-    "name": "별난국수",
-    "id": 39,
-    "official_name": "별난국수",
-    "category": "한식",
-    "dong": "항구동",
     "address": "경북 포항시 북구 해안로 57-2",
+    "bookmark_count": 1,
+    "category": "한식",
+    "comments_count": 0,
     "contact": "054-252-5388",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 5602,
-    "x": 129.3767,
-    "y": 36.05396,
+    "dong": "항구동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "00:00",
+          "04:20"
+        ],
+        [
+          "05:00",
+          "15:30"
+        ],
+        [
+          "16:10",
+          "24:00"
+        ]
+      ],
+      "목": [
+        [
+          "00:00",
+          "04:20"
+        ],
+        [
+          "05:00",
+          "15:30"
+        ],
+        [
+          "16:10",
+          "24:00"
+        ]
+      ],
+      "수": [
+        [
+          "00:00",
+          "04:20"
+        ],
+        [
+          "05:00",
+          "15:30"
+        ],
+        [
+          "16:10",
+          "24:00"
+        ]
+      ],
+      "월": [
+        [
+          "00:00",
+          "04:20"
+        ],
+        [
+          "05:00",
+          "15:30"
+        ],
+        [
+          "16:10",
+          "24:00"
+        ]
+      ],
+      "일": [
+        [
+          "00:00",
+          "04:20"
+        ],
+        [
+          "05:00",
+          "15:30"
+        ],
+        [
+          "16:10",
+          "24:00"
+        ]
+      ],
+      "토": [
+        [
+          "00:00",
+          "04:20"
+        ],
+        [
+          "05:00",
+          "15:30"
+        ],
+        [
+          "16:10",
+          "24:00"
+        ]
+      ],
+      "화": [
+        [
+          "00:00",
+          "04:20"
+        ],
+        [
+          "05:00",
+          "15:30"
+        ],
+        [
+          "16:10",
+          "24:00"
+        ]
+      ]
+    },
+    "id": 39,
+    "likes": 0,
     "link": "http://place.map.kakao.com/1012636476",
     "menu": [
       "멸치국수: 4000",
@@ -1313,34 +2829,77 @@
       "감자찐(튀김만두): 4500",
       "콩수제비: 6500"
     ],
+    "name": "별난국수",
+    "official_name": "별난국수",
     "opening_hours": [
       "매일 00:00 ~ 24:00",
       "매일 브레이크타임1 15:30 ~ 16:10",
       "매일 브레이크타임2 04:20 ~ 05:00"
     ],
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3767,
+    "y": 36.05396
   },
   {
-    "name": "삼형제횟집",
-    "id": 40,
-    "official_name": "삼형제횟집",
-    "category": "돈까스 / 회 / 일식",
-    "dong": "죽도동",
     "address": "경북 포항시 북구 죽도시장길 37",
+    "bookmark_count": 0,
+    "category": "돈까스 / 회 / 일식",
+    "comments_count": 0,
     "contact": "054-242-7170",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 7741,
-    "x": 129.3694,
-    "y": 36.03551,
+    "dong": "죽도동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "00:00",
+          "24:00"
+        ]
+      ],
+      "목": [
+        [
+          "00:00",
+          "24:00"
+        ]
+      ],
+      "수": [
+        [
+          "00:00",
+          "24:00"
+        ]
+      ],
+      "월": [
+        [
+          "00:00",
+          "24:00"
+        ]
+      ],
+      "일": [
+        [
+          "00:00",
+          "24:00"
+        ]
+      ],
+      "토": [
+        [
+          "00:00",
+          "24:00"
+        ]
+      ],
+      "화": [
+        [
+          "00:00",
+          "24:00"
+        ]
+      ]
+    },
+    "id": 40,
+    "likes": 0,
     "link": "http://place.map.kakao.com/20028304",
     "menu": [
       "문어 (소): 60000",
@@ -1348,62 +2907,130 @@
       "해물탕 (소): 40000",
       "과메기 (소): 30000"
     ],
+    "name": "삼형제횟집",
+    "official_name": "삼형제횟집",
     "opening_hours": "매일 00:00 ~ 24:00",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3694,
+    "y": 36.03551
   },
   {
-    "name": "샤브20",
-    "id": 41,
-    "official_name": "샤브20 본점",
-    "category": "육류 / 고기",
-    "dong": "장성동",
     "address": "경북 포항시 북구 법원로 7",
+    "bookmark_count": 0,
+    "category": "육류 / 고기",
+    "comments_count": 0,
     "contact": "054-254-0020",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 3097,
-    "x": 129.3862,
-    "y": 36.07573,
+    "dong": "장성동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "11:00",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "22:00"
+        ]
+      ],
+      "목": [
+        [
+          "11:00",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "22:00"
+        ]
+      ],
+      "수": [
+        [
+          "11:00",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "22:00"
+        ]
+      ],
+      "월": [
+        [
+          "11:00",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "22:00"
+        ]
+      ],
+      "일": [
+        [
+          "11:00",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "22:00"
+        ]
+      ],
+      "토": [
+        [
+          "11:00",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "22:00"
+        ]
+      ],
+      "화": [
+        [
+          "11:00",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "22:00"
+        ]
+      ]
+    },
+    "id": 41,
+    "likes": 0,
     "link": "http://place.map.kakao.com/1147301371",
     "menu": [
       "80분 런치코스 (2가지 육수 선택시): 16900",
       "100분 디너코스 (2가지 육수 선택시): 19900"
     ],
+    "name": "샤브20",
+    "official_name": "샤브20 본점",
     "opening_hours": [
       "매일 11:00 ~ 22:00",
       "매일 브레이크타임 15:00 ~ 17:00"
     ],
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3862,
+    "y": 36.07573
   },
   {
-    "name": "서가앤쿡",
-    "id": 42,
-    "official_name": "서가앤쿡 포항양덕점",
-    "category": "양식",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 천마로 36",
+    "bookmark_count": 0,
+    "category": "양식",
+    "comments_count": 0,
     "contact": "054-255-9494",
+    "cost_performance": 0,
+    "delivery_availability": "true",
     "distance": 2772,
-    "x": 129.3971,
-    "y": 36.07973,
+    "dong": "양덕동",
+    "flavor": 0,
+    "id": 42,
+    "likes": 0,
     "link": "http://place.map.kakao.com/21721142",
     "menu": [
       "게살 오이스터 파스타: 19800",
@@ -1430,30 +3057,26 @@
       "해산물 토마토 파스타: 19800",
       "자이언트폭립: 39800"
     ],
-    "opening_hours": null,
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
+    "name": "서가앤쿡",
+    "official_name": "서가앤쿡 포항양덕점",
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "true",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3971,
+    "y": 36.07973
   },
   {
-    "name": "서부식당",
-    "id": 43,
-    "official_name": "서부식당",
-    "category": "한식",
-    "dong": "용흥동",
     "address": "경북 포항시 북구 용당로 24-21",
+    "bookmark_count": 0,
+    "category": "한식",
+    "comments_count": 0,
     "contact": "053-277-6925",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 8565,
-    "x": 129.3583,
-    "y": 36.03028,
+    "dong": "용흥동",
+    "flavor": 0,
+    "id": 43,
+    "likes": 0,
     "link": "http://place.map.kakao.com/15418255",
     "menu": [
       "삼겹살: 0",
@@ -1462,30 +3085,72 @@
       "갈치구이 정식: 0",
       "씨래기찌개: 0"
     ],
-    "opening_hours": null,
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
+    "name": "서부식당",
+    "official_name": "서부식당",
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3583,
+    "y": 36.03028
   },
   {
-    "name": "성진횟집",
-    "id": 44,
-    "official_name": "성진횟집",
-    "category": "돈까스 / 회 / 일식",
-    "dong": "장성동",
     "address": "경북 포항시 북구 장량로 19",
+    "bookmark_count": 0,
+    "category": "돈까스 / 회 / 일식",
+    "comments_count": 0,
     "contact": "054-231-2316",
+    "cost_performance": 0,
+    "delivery_availability": "true",
     "distance": 2338,
-    "x": 129.3825,
-    "y": 36.08301,
+    "dong": "장성동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "10:00",
+          "24:00"
+        ]
+      ],
+      "목": [
+        [
+          "10:00",
+          "24:00"
+        ]
+      ],
+      "수": [
+        [
+          "10:00",
+          "24:00"
+        ]
+      ],
+      "월": [
+        [
+          "10:00",
+          "24:00"
+        ]
+      ],
+      "일": [
+        [
+          "10:00",
+          "24:00"
+        ]
+      ],
+      "토": [
+        [
+          "10:00",
+          "24:00"
+        ]
+      ],
+      "화": [
+        [
+          "10:00",
+          "24:00"
+        ]
+      ]
+    },
+    "id": 44,
+    "likes": 0,
     "link": "http://place.map.kakao.com/18561879",
     "menu": [
       "모듬회 (소): 50000",
@@ -1494,63 +3159,138 @@
       "특미안주물회: 45000",
       "꼬막찜: 25000"
     ],
+    "name": "성진횟집",
+    "official_name": "성진횟집",
     "opening_hours": "매일 10:00 ~ 24:00",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "true",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3825,
+    "y": 36.08301
   },
   {
-    "name": "셰프더그릴",
-    "id": 45,
-    "official_name": "셰프더그릴",
-    "category": "양식",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 장량주택로13번길 6",
+    "bookmark_count": 0,
+    "category": "양식",
+    "comments_count": 0,
     "contact": "054-251-0850",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 1641,
-    "x": 129.3892,
-    "y": 36.08883,
+    "dong": "양덕동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "11:30",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "23:00"
+        ]
+      ],
+      "목": [
+        [
+          "11:30",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "23:00"
+        ]
+      ],
+      "수": [
+        [
+          "11:30",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "23:00"
+        ]
+      ],
+      "월": [
+        [
+          "11:30",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "23:00"
+        ]
+      ],
+      "일": [
+        [
+          "11:30",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "23:00"
+        ]
+      ],
+      "토": [
+        [
+          "11:30",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "23:00"
+        ]
+      ],
+      "화": [
+        [
+          "11:30",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "23:00"
+        ]
+      ]
+    },
+    "id": 45,
+    "likes": 0,
     "link": "http://place.map.kakao.com/200092178",
     "menu": [
       "통삼겹바베큐 (S): 9900",
       "그릴드치킨 (3조각): 10900",
       "등갈비하프렉: 16000"
     ],
+    "name": "셰프더그릴",
+    "official_name": "셰프더그릴",
     "opening_hours": [
       "매일 11:30 ~ 23:00",
       "매일 브레이크타임 15:00 ~ 17:00"
     ],
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3892,
+    "y": 36.08883
   },
   {
-    "name": "스고이라멘",
-    "id": 46,
-    "official_name": "스고이라멘",
-    "category": "돈까스 / 회 / 일식",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 양덕남로 73",
+    "bookmark_count": 0,
+    "category": "돈까스 / 회 / 일식",
+    "comments_count": 0,
     "contact": "없음",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 2977,
-    "x": 129.4003,
-    "y": 36.07869,
+    "dong": "양덕동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "휴무일: 월요일",
+      "breakDay": [
+        1
+      ],
+      "onlyBreak": true
+    },
+    "id": 46,
+    "likes": 0,
     "link": "http://place.map.kakao.com/1555706380",
     "menu": [
       "돈고츠라멘: 7000",
@@ -1559,30 +3299,91 @@
       "돈고츠혼술세트: 10000",
       "고마혼술세트: 11000"
     ],
+    "name": "스고이라멘",
+    "official_name": "스고이라멘",
     "opening_hours": "휴무일: 월요일",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.4003,
+    "y": 36.07869
   },
   {
-    "name": "스시덴",
-    "id": 47,
-    "official_name": "스시덴",
-    "category": "돈까스 / 회 / 일식",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 장량주택로18번길 2",
+    "bookmark_count": 0,
+    "category": "돈까스 / 회 / 일식",
+    "comments_count": 0,
     "contact": "054-254-3547",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 1649,
-    "x": 129.39,
-    "y": 36.08882,
+    "dong": "양덕동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "11:30",
+          "15:30"
+        ],
+        [
+          "18:00",
+          "22:00"
+        ]
+      ],
+      "목": [
+        [
+          "11:30",
+          "15:30"
+        ],
+        [
+          "18:00",
+          "22:00"
+        ]
+      ],
+      "수": [
+        [
+          "11:30",
+          "15:30"
+        ],
+        [
+          "18:00",
+          "22:00"
+        ]
+      ],
+      "월": [
+        [
+          "11:30",
+          "15:30"
+        ],
+        [
+          "18:00",
+          "22:00"
+        ]
+      ],
+      "토": [
+        [
+          "11:30",
+          "15:30"
+        ],
+        [
+          "18:00",
+          "22:00"
+        ]
+      ],
+      "화": [
+        [
+          "11:30",
+          "15:30"
+        ],
+        [
+          "18:00",
+          "22:00"
+        ]
+      ]
+    },
+    "id": 47,
+    "likes": 0,
     "link": "http://place.map.kakao.com/670402879",
     "menu": [
       "혼마도로(3pcs): 9000",
@@ -1590,33 +3391,30 @@
       "생연어(3pcs): 5000",
       "단새우(3pcs): 6000"
     ],
+    "name": "스시덴",
+    "official_name": "스시덴",
     "opening_hours": [
       "월~토 11:30 ~ 22:00",
       "월~토 브레이크타임 15:30 ~ 18:00"
     ],
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.39,
+    "y": 36.08882
   },
   {
-    "name": "스시요시",
-    "id": 48,
-    "official_name": "스시요시",
-    "category": "돈까스 / 회 / 일식",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 장량로174번길 6-11",
+    "bookmark_count": 0,
+    "category": "돈까스 / 회 / 일식",
+    "comments_count": 0,
     "contact": "054-253-5777",
+    "cost_performance": 0,
+    "delivery_availability": "true",
     "distance": 2688,
-    "x": 129.3988,
-    "y": 36.08102,
+    "dong": "양덕동",
+    "flavor": 0,
+    "id": 48,
+    "likes": 0,
     "link": "http://place.map.kakao.com/19048113",
     "menu": [
       "모듬 초밥(10pcs): 10000",
@@ -1625,30 +3423,33 @@
       "모듬사시미: 50000",
       "모듬튀김: 15000"
     ],
-    "opening_hours": null,
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
+    "name": "스시요시",
+    "official_name": "스시요시",
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "true",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3988,
+    "y": 36.08102
   },
   {
-    "name": "스프커리보울",
-    "id": 49,
-    "official_name": "스프커리보울",
-    "category": "아시안",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 장량로158번길 5-11",
+    "bookmark_count": 0,
+    "category": "아시안",
+    "comments_count": 0,
     "contact": "054-254-4138",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 2644,
-    "x": 129.3984,
-    "y": 36.0813,
+    "dong": "양덕동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "휴무일: 월요일",
+      "breakDay": [
+        1
+      ],
+      "onlyBreak": true
+    },
+    "id": 49,
+    "likes": 0,
     "link": "http://place.map.kakao.com/1387946284",
     "menu": [
       "야사이모리모리: 8000",
@@ -1657,30 +3458,73 @@
       "에비토치킨: 10000",
       "치킨: 9000"
     ],
+    "name": "스프커리보울",
+    "official_name": "스프커리보울",
     "opening_hours": "휴무일: 월요일",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3984,
+    "y": 36.0813
   },
   {
-    "name": "심심상인",
-    "id": 50,
-    "official_name": "심심상인",
-    "category": "양식",
-    "dong": "두호동",
     "address": "경북 포항시 북구 해안로 227",
+    "bookmark_count": 0,
+    "category": "양식",
+    "comments_count": 0,
     "contact": "054-255-0130",
+    "cost_performance": 0,
+    "delivery_availability": "true",
     "distance": 4418,
-    "x": 129.3878,
-    "y": 36.06378,
+    "dong": "두호동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "11:30",
+          "22:00"
+        ]
+      ],
+      "목": [
+        [
+          "11:30",
+          "22:00"
+        ]
+      ],
+      "수": [
+        [
+          "11:30",
+          "22:00"
+        ]
+      ],
+      "월": [
+        [
+          "11:30",
+          "22:00"
+        ]
+      ],
+      "일": [
+        [
+          "11:30",
+          "22:00"
+        ]
+      ],
+      "토": [
+        [
+          "11:30",
+          "22:00"
+        ]
+      ],
+      "화": [
+        [
+          "11:30",
+          "22:00"
+        ]
+      ]
+    },
+    "id": 50,
+    "likes": 0,
     "link": "http://place.map.kakao.com/1806443383",
     "menu": [
       "백링면: 14000",
@@ -1691,113 +3535,255 @@
       "바베큐 피칸테 필라프: 13000",
       "리코타 먹물 리조또: 12000"
     ],
+    "name": "심심상인",
+    "official_name": "심심상인",
     "opening_hours": "매일 11:30 ~ 22:00",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "true",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3878,
+    "y": 36.06378
   },
   {
-    "name": "쌀통닭",
-    "id": 51,
-    "official_name": "쌀통닭 포항양덕점",
-    "category": "치킨",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 장량로189번길 5-6",
-    "contact": "054-252-5235",
-    "distance": 2596,
-    "x": 129.4008,
-    "y": 36.08264,
-    "link": "http://place.map.kakao.com/25736891",
-    "menu": null,
-    "opening_hours": null,
-    "picture": null,
-    "likes": 0,
     "bookmark_count": 0,
-    "service": 0,
+    "category": "치킨",
     "comments_count": 0,
-    "flavor": 0,
+    "contact": "054-252-5235",
     "cost_performance": 0,
     "delivery_availability": "true",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "distance": 2596,
+    "dong": "양덕동",
+    "flavor": 0,
+    "id": 51,
+    "likes": 0,
+    "link": "http://place.map.kakao.com/25736891",
+    "name": "쌀통닭",
+    "official_name": "쌀통닭 포항양덕점",
+    "service": 0,
+    "total": 0,
+    "x": 129.4008,
+    "y": 36.08264
   },
   {
-    "name": "아그집쭈꾸미",
-    "id": 52,
-    "official_name": "아그집쭈꾸미볶음전문점 북구점",
-    "category": "한식",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 천마로 77",
+    "bookmark_count": 0,
+    "category": "한식",
+    "comments_count": 0,
     "contact": "054-253-0700",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 2366,
-    "x": 129.3966,
-    "y": 36.08343,
+    "dong": "양덕동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "10:00",
+          "22:00"
+        ]
+      ],
+      "목": [
+        [
+          "10:00",
+          "22:00"
+        ]
+      ],
+      "수": [
+        [
+          "10:00",
+          "22:00"
+        ]
+      ],
+      "월": [
+        [
+          "10:00",
+          "22:00"
+        ]
+      ],
+      "일": [
+        [
+          "10:00",
+          "22:00"
+        ]
+      ],
+      "토": [
+        [
+          "10:00",
+          "22:00"
+        ]
+      ],
+      "화": [
+        [
+          "10:00",
+          "22:00"
+        ]
+      ]
+    },
+    "id": 52,
+    "likes": 0,
     "link": "http://place.map.kakao.com/17799399",
     "menu": [
       "쭈꾸미볶음: 7000",
       "왕새우튀김 (8마리): 15000"
     ],
+    "name": "아그집쭈꾸미",
+    "official_name": "아그집쭈꾸미볶음전문점 북구점",
     "opening_hours": "매일 10:00 ~ 22:00",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3966,
+    "y": 36.08343
   },
   {
-    "name": "아오리의행방불명",
-    "id": 53,
-    "official_name": "아오리의행방불명 포항점",
-    "category": "돈까스 / 회 / 일식",
-    "dong": "대흥동",
     "address": "경북 포항시 북구 중앙상가길 9-1",
+    "bookmark_count": 0,
+    "category": "돈까스 / 회 / 일식",
+    "comments_count": 0,
     "contact": "054-615-6777",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 7802,
-    "x": 129.3622,
-    "y": 36.03649,
+    "dong": "대흥동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ],
+      "목": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ],
+      "수": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ],
+      "월": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ],
+      "일": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ],
+      "토": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ],
+      "화": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ]
+    },
+    "id": 53,
+    "likes": 0,
     "link": "http://place.map.kakao.com/1857408887",
     "menu": [
       "Miso Ramen: 0"
     ],
+    "name": "아오리의행방불명",
+    "official_name": "아오리의행방불명 포항점",
     "opening_hours": "매일 11:00 ~ 22:00",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3622,
+    "y": 36.03649
   },
   {
-    "name": "양덕동초밥집",
-    "id": 54,
-    "official_name": "양덕동초밥집",
-    "category": "돈까스 / 회 / 일식",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 장량중앙로66번길 2",
+    "bookmark_count": 0,
+    "category": "돈까스 / 회 / 일식",
+    "comments_count": 0,
     "contact": "054-251-1076",
+    "cost_performance": 0,
+    "delivery_availability": "true",
     "distance": 1545,
-    "x": 129.3886,
-    "y": 36.08968,
+    "dong": "양덕동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "11:40",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "22:00"
+        ]
+      ],
+      "목": [
+        [
+          "11:40",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "22:00"
+        ]
+      ],
+      "수": [
+        [
+          "11:40",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "22:00"
+        ]
+      ],
+      "월": [
+        [
+          "11:40",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "22:00"
+        ]
+      ],
+      "토": [
+        [
+          "11:40",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "22:00"
+        ]
+      ],
+      "화": [
+        [
+          "11:40",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "22:00"
+        ]
+      ]
+    },
+    "id": 54,
+    "likes": 0,
     "link": "http://place.map.kakao.com/2024311350",
     "menu": [
       "모듬초밥: 13000",
@@ -1806,33 +3792,30 @@
       "소고기초밥: 16000",
       "생새우초밥: 18000"
     ],
+    "name": "양덕동초밥집",
+    "official_name": "양덕동초밥집",
     "opening_hours": [
       "월~토 11:40 ~ 22:00",
       "월~토 브레이크타임 15:00 ~ 17:00"
     ],
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "true",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3886,
+    "y": 36.08968
   },
   {
-    "name": "양덕생선구이전문점",
-    "id": 55,
-    "official_name": "양덕생선구이전문점",
-    "category": "한식",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 장량로174번길 29",
+    "bookmark_count": 0,
+    "category": "한식",
+    "comments_count": 0,
     "contact": "없음",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 2911,
-    "x": 129.3997,
-    "y": 36.07914,
+    "dong": "양덕동",
+    "flavor": 0,
+    "id": 55,
+    "likes": 0,
     "link": "http://place.map.kakao.com/27342578",
     "menu": [
       "고등어구이: 10000",
@@ -1841,30 +3824,26 @@
       "민어조기구이: 15000",
       "코다리 (명태) 조림 (소): 20000"
     ],
-    "opening_hours": null,
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
+    "name": "양덕생선구이전문점",
+    "official_name": "양덕생선구이전문점",
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3997,
+    "y": 36.07914
   },
   {
-    "name": "양덕왕손짜장",
-    "id": 56,
-    "official_name": "양덕왕손짜장",
-    "category": "중식",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 장량로 142",
+    "bookmark_count": 0,
+    "category": "중식",
+    "comments_count": 0,
     "contact": "054-255-1717",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 2540,
-    "x": 129.3958,
-    "y": 36.08161,
+    "dong": "양덕동",
+    "flavor": 0,
+    "id": 56,
+    "likes": 0,
     "link": "http://place.map.kakao.com/13309117",
     "menu": [
       "고추잡채: 0",
@@ -1876,30 +3855,26 @@
       "새우튀김: 0",
       "샥스핀: 0"
     ],
-    "opening_hours": null,
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
+    "name": "양덕왕손짜장",
+    "official_name": "양덕왕손짜장",
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3958,
+    "y": 36.08161
   },
   {
-    "name": "어림지",
-    "id": 57,
-    "official_name": "어림지 장성점",
-    "category": "한식",
-    "dong": "장성동",
     "address": "경북 포항시 북구 새천년대로 1308",
+    "bookmark_count": 0,
+    "category": "한식",
+    "comments_count": 0,
     "contact": "054-253-7755",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 3161,
-    "x": 129.3902,
-    "y": 36.07516,
+    "dong": "장성동",
+    "flavor": 0,
+    "id": 57,
+    "likes": 0,
     "link": "http://place.map.kakao.com/21690586",
     "menu": [
       "뼈다귀전골 (특대): 34000",
@@ -1915,56 +3890,47 @@
       "설렁탕: 7000",
       "내장탕: 8000"
     ],
-    "opening_hours": null,
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
+    "name": "어림지",
+    "official_name": "어림지 장성점",
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3902,
+    "y": 36.07516
   },
   {
-    "name": "여장부",
-    "id": 58,
-    "official_name": "여장부 포항점",
-    "category": "한식",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 장량로 237",
-    "contact": "054-253-5100",
-    "distance": 2890,
-    "x": 129.4065,
-    "y": 36.08228,
-    "link": "http://place.map.kakao.com/1056153653",
-    "menu": null,
-    "opening_hours": null,
-    "picture": null,
-    "likes": 0,
     "bookmark_count": 0,
-    "service": 0,
+    "category": "한식",
     "comments_count": 0,
-    "flavor": 0,
+    "contact": "054-253-5100",
     "cost_performance": 0,
     "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "distance": 2890,
+    "dong": "양덕동",
+    "flavor": 0,
+    "id": 58,
+    "likes": 0,
+    "link": "http://place.map.kakao.com/1056153653",
+    "name": "여장부",
+    "official_name": "여장부 포항점",
+    "service": 0,
+    "total": 0,
+    "x": 129.4065,
+    "y": 36.08228
   },
   {
-    "name": "연탄에꾸운닭갈비",
-    "id": 59,
-    "official_name": "연탄에꾸운닭갈비",
-    "category": "육류 / 고기",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 장량로158번길 8",
+    "bookmark_count": 0,
+    "category": "육류 / 고기",
+    "comments_count": 0,
     "contact": "054-251-3030",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 2649,
-    "x": 129.3975,
-    "y": 36.08101,
+    "dong": "양덕동",
+    "flavor": 0,
+    "id": 59,
+    "likes": 0,
     "link": "http://place.map.kakao.com/2139238231",
     "menu": [
       "닭갈비구이(1인분): 7000",
@@ -1972,30 +3938,33 @@
       "고추장 돼지구이(1인분): 6000",
       "간장 돼지구이(1인분): 6000"
     ],
-    "opening_hours": null,
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
+    "name": "연탄에꾸운닭갈비",
+    "official_name": "연탄에꾸운닭갈비",
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3975,
+    "y": 36.08101
   },
   {
-    "name": "열두달봄",
-    "id": 60,
-    "official_name": "열두달봄",
-    "category": "카페 / 디저트",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 양덕남로 137",
+    "bookmark_count": 0,
+    "category": "카페 / 디저트",
+    "comments_count": 0,
     "contact": "없음",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 3177,
-    "x": 129.4072,
-    "y": 36.07955,
+    "dong": "양덕동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "휴무일: 월요일",
+      "breakDay": [
+        1
+      ],
+      "onlyBreak": true
+    },
+    "id": 60,
+    "likes": 0,
     "link": "http://place.map.kakao.com/1139315290",
     "menu": [
       "아메리카노: 4000",
@@ -2008,30 +3977,101 @@
       "여지홍티: 5000",
       "핑크자몽에이드: 5000"
     ],
+    "name": "열두달봄",
+    "official_name": "열두달봄",
     "opening_hours": "휴무일: 월요일",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.4072,
+    "y": 36.07955
   },
   {
-    "name": "오또상스테끼",
-    "id": 61,
-    "official_name": "오또상스테끼",
-    "category": "돈까스 / 회 / 일식",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 장량로 212",
+    "bookmark_count": 0,
+    "category": "돈까스 / 회 / 일식",
+    "comments_count": 0,
     "contact": "054-252-6788",
+    "cost_performance": 0,
+    "delivery_availability": "true",
     "distance": 2819,
-    "x": 129.4035,
-    "y": 36.08154,
+    "dong": "양덕동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "12:00",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "21:00"
+        ]
+      ],
+      "목": [
+        [
+          "12:00",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "21:00"
+        ]
+      ],
+      "수": [
+        [
+          "12:00",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "21:00"
+        ]
+      ],
+      "월": [
+        [
+          "12:00",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "21:00"
+        ]
+      ],
+      "일": [
+        [
+          "12:00",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "21:00"
+        ]
+      ],
+      "토": [
+        [
+          "12:00",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "21:00"
+        ]
+      ],
+      "화": [
+        [
+          "12:00",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "21:00"
+        ]
+      ]
+    },
+    "id": 61,
+    "likes": 0,
     "link": "http://place.map.kakao.com/1057758310",
     "menu": [
       "치즈갈릭 함바그: 12900",
@@ -2040,33 +4080,76 @@
       "할라피뇨 멘치 카츠: 11900",
       "갈릭 스테끼: 15500"
     ],
+    "name": "오또상스테끼",
+    "official_name": "오또상스테끼",
     "opening_hours": [
       "매일 12:00 ~ 21:00",
       "매일 브레이크타임 15:00 ~ 17:00"
     ],
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "true",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.4035,
+    "y": 36.08154
   },
   {
-    "name": "온센텐동",
-    "id": 62,
-    "official_name": "온센텐동 포항점",
-    "category": "돈까스 / 회 / 일식",
-    "dong": "두호동",
     "address": "경북 포항시 북구 삼호로 234-1",
+    "bookmark_count": 0,
+    "category": "돈까스 / 회 / 일식",
+    "comments_count": 0,
     "contact": "054-232-3124",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 5018,
-    "x": 129.3786,
-    "y": 36.05904,
+    "dong": "두호동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "11:00",
+          "20:30"
+        ]
+      ],
+      "목": [
+        [
+          "11:00",
+          "20:30"
+        ]
+      ],
+      "수": [
+        [
+          "11:00",
+          "20:30"
+        ]
+      ],
+      "월": [
+        [
+          "11:00",
+          "20:30"
+        ]
+      ],
+      "일": [
+        [
+          "11:00",
+          "20:30"
+        ]
+      ],
+      "토": [
+        [
+          "11:00",
+          "20:30"
+        ]
+      ],
+      "화": [
+        [
+          "11:00",
+          "20:30"
+        ]
+      ]
+    },
+    "id": 62,
+    "likes": 0,
     "link": "http://place.map.kakao.com/1451963049",
     "menu": [
       "온센텐동: 7900",
@@ -2075,30 +4158,67 @@
       "아나고텐동: 13900",
       "온사라다: 2500"
     ],
+    "name": "온센텐동",
+    "official_name": "온센텐동 포항점",
     "opening_hours": "매일 11:00 ~ 20:30",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3786,
+    "y": 36.05904
   },
   {
-    "name": "왕돌잠",
-    "id": 63,
-    "official_name": "왕돌잠",
-    "category": "돈까스 / 회 / 일식",
-    "dong": "두호동",
     "address": "경북 포항시 북구 학전로 127",
+    "bookmark_count": 0,
+    "category": "돈까스 / 회 / 일식",
+    "comments_count": 0,
     "contact": "없음",
+    "cost_performance": 0,
+    "delivery_availability": "true",
     "distance": 4516,
-    "x": 129.3761,
-    "y": 36.06407,
+    "dong": "두호동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "11:30",
+          "21:30"
+        ]
+      ],
+      "목": [
+        [
+          "11:30",
+          "21:30"
+        ]
+      ],
+      "수": [
+        [
+          "11:30",
+          "21:30"
+        ]
+      ],
+      "월": [
+        [
+          "11:30",
+          "21:30"
+        ]
+      ],
+      "토": [
+        [
+          "11:30",
+          "21:30"
+        ]
+      ],
+      "화": [
+        [
+          "11:30",
+          "21:30"
+        ]
+      ]
+    },
+    "id": 63,
+    "likes": 0,
     "link": "http://place.map.kakao.com/12485131",
     "menu": [
       "카라시 해물라멘: 7500",
@@ -2107,30 +4227,73 @@
       "미소라멘: 7000",
       "탄탄멘: 7000"
     ],
+    "name": "왕돌잠",
+    "official_name": "왕돌잠",
     "opening_hours": "월~토 11:30 ~ 21:30",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "true",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3761,
+    "y": 36.06407
   },
   {
-    "name": "용강국밥",
-    "id": 64,
-    "official_name": "용강국밥",
-    "category": "한식",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 천마로 108",
+    "bookmark_count": 0,
+    "category": "한식",
+    "comments_count": 0,
     "contact": "054-255-0277",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 2122,
-    "x": 129.3971,
-    "y": 36.08595,
+    "dong": "양덕동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "00:00",
+          "24:00"
+        ]
+      ],
+      "목": [
+        [
+          "00:00",
+          "24:00"
+        ]
+      ],
+      "수": [
+        [
+          "00:00",
+          "24:00"
+        ]
+      ],
+      "월": [
+        [
+          "00:00",
+          "24:00"
+        ]
+      ],
+      "일": [
+        [
+          "00:00",
+          "24:00"
+        ]
+      ],
+      "토": [
+        [
+          "00:00",
+          "24:00"
+        ]
+      ],
+      "화": [
+        [
+          "00:00",
+          "24:00"
+        ]
+      ]
+    },
+    "id": 64,
+    "likes": 0,
     "link": "http://place.map.kakao.com/27417578",
     "menu": [
       "머리국밥: 6500",
@@ -2138,111 +4301,169 @@
       "전골(소): 20000",
       "수육(소): 20000"
     ],
+    "name": "용강국밥",
+    "official_name": "용강국밥",
     "opening_hours": "매일 00:00 ~ 24:00",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3971,
+    "y": 36.08595
   },
   {
-    "name": "우리정식당",
-    "id": 65,
-    "official_name": "우리정식당",
-    "category": "한식",
-    "dong": "덕산동",
-    "address": "경북 포항시 북구 중앙로 331",
-    "contact": "없음",
-    "distance": 7082,
-    "x": 129.3658,
-    "y": 36.04241,
-    "link": "http://place.map.kakao.com/193689728",
-    "menu": null,
-    "opening_hours": null,
-    "picture": null,
-    "likes": 0,
+    "address": "경북 포항시 북구 장량로189번길 5-14",
     "bookmark_count": 0,
-    "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
-  },
-  {
-    "name": "우현그집쭈꾸미",
-    "id": 66,
-    "official_name": "우현그집쭈꾸미 2호점",
-    "category": "한식",
-    "dong": "양덕동",
-    "address": "경북 포항시 북구 장량로190번길 30-2",
-    "contact": "054-231-2600",
-    "distance": 2954,
-    "x": 129.4011,
-    "y": 36.0792,
-    "link": "http://place.map.kakao.com/655725472",
-    "menu": null,
-    "opening_hours": null,
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
-    "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
-  },
-  {
-    "name": "욱이네식당",
-    "id": 67,
-    "official_name": "욱이네식당 영일대점",
     "category": "육류 / 고기",
-    "dong": "두호동",
+    "comments_count": 0,
+    "contact": "054-252-2825",
+    "cost_performance": 0,
+    "delivery_availability": "false",
+    "distance": 2572,
+    "dong": "양덕동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "휴무일: 월요일",
+      "breakDay": [
+        1
+      ],
+      "onlyBreak": true
+    },
+    "id": 65,
+    "likes": 0,
+    "link": "http://place.map.kakao.com/885420933",
+    "menu": [
+      "황제살(180g): 16200",
+      "꽃살(180g): 13500",
+      "꽃목살(180g): 14500",
+      "꽃갈비(180g): 14500",
+      "배받이살(180g): 13500",
+      "젓갈볶음밥: 4000",
+      "냉면(물/비빔): 5000",
+      "꽃게된장찌개: 3000",
+      "얼큰해물라면: 4000",
+      "셀프초밥(추가): 3000"
+    ],
+    "name": "흑돈",
+    "official_name": "흑돈",
+    "opening_hours": "휴무일: 월요일",
+    "service": 0,
+    "total": 0,
+    "x": 129.4002,
+    "y": 36.08263
+  },
+  {
+    "address": "경북 포항시 북구 장량로190번길 30-2",
+    "bookmark_count": 0,
+    "category": "한식",
+    "comments_count": 0,
+    "contact": "054-231-2600",
+    "cost_performance": 0,
+    "delivery_availability": "false",
+    "distance": 2954,
+    "dong": "양덕동",
+    "flavor": 0,
+    "id": 66,
+    "likes": 0,
+    "link": "http://place.map.kakao.com/655725472",
+    "name": "우현그집쭈꾸미",
+    "official_name": "우현그집쭈꾸미 2호점",
+    "service": 0,
+    "total": 0,
+    "x": 129.4011,
+    "y": 36.0792
+  },
+  {
     "address": "경북 포항시 북구 삼호로 211",
+    "bookmark_count": 0,
+    "category": "육류 / 고기",
+    "comments_count": 0,
     "contact": "없음",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 5243,
-    "x": 129.3771,
-    "y": 36.0572,
+    "dong": "두호동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "17:00",
+          "03:00"
+        ]
+      ],
+      "목": [
+        [
+          "17:00",
+          "03:00"
+        ]
+      ],
+      "수": [
+        [
+          "17:00",
+          "03:00"
+        ]
+      ],
+      "월": [
+        [
+          "17:00",
+          "03:00"
+        ]
+      ],
+      "일": [
+        [
+          "17:00",
+          "03:00"
+        ]
+      ],
+      "토": [
+        [
+          "17:00",
+          "03:00"
+        ]
+      ],
+      "화": [
+        [
+          "17:00",
+          "03:00"
+        ]
+      ]
+    },
+    "id": 67,
+    "likes": 0,
     "link": "http://place.map.kakao.com/1648375440",
     "menu": [
       "급랭 삼겹살 (100g): 6000",
       "통 껍데기 (150g): 6000"
     ],
+    "name": "욱이네식당",
+    "official_name": "욱이네식당 영일대점",
     "opening_hours": "매일 17:00 ~ 03:00",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3771,
+    "y": 36.0572
   },
   {
-    "name": "유난",
-    "id": 68,
-    "official_name": "유난",
-    "category": "양식",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 양덕로44번길 14",
+    "bookmark_count": 0,
+    "category": "양식",
+    "comments_count": 0,
     "contact": "없음",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 2737,
-    "x": 129.4035,
-    "y": 36.08238,
+    "dong": "양덕동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "휴무일: 월요일, 일요일",
+      "breakDay": [
+        1,
+        0
+      ],
+      "onlyBreak": true
+    },
+    "id": 68,
+    "likes": 0,
     "link": "http://place.map.kakao.com/1474818243",
     "menu": [
       "유난파스타: 16000",
@@ -2252,30 +4473,34 @@
       "소고기스테이크 (300g): 32000",
       "양고기스테이크 (300g): 32000"
     ],
-    "opening_hours": "휴무일: 월 일요일",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
+    "name": "유난",
+    "official_name": "유난",
+    "opening_hours": "휴무일: 월요일, 일요일",
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.4035,
+    "y": 36.08238
   },
   {
-    "name": "육대장",
-    "id": 69,
-    "official_name": "육대장 양덕점",
-    "category": "한식",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 신덕로 185",
+    "bookmark_count": 0,
+    "category": "한식",
+    "comments_count": 0,
     "contact": "054-253-6669",
+    "cost_performance": 0,
+    "delivery_availability": "true",
     "distance": 2069,
-    "x": 129.3958,
-    "y": 36.08606,
+    "dong": "양덕동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "휴무일: 월요일",
+      "breakDay": [
+        1
+      ],
+      "onlyBreak": true
+    },
+    "id": 69,
+    "likes": 0,
     "link": "http://place.map.kakao.com/24117978",
     "menu": [
       "왕갈비설렁탕: 0",
@@ -2284,56 +4509,94 @@
       "대왕갈비찜: 0",
       "옛날전통육개장: 0"
     ],
+    "name": "육대장",
+    "official_name": "육대장 양덕점",
     "opening_hours": "휴무일: 월요일",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "true",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3958,
+    "y": 36.08606
   },
   {
-    "name": "으뜸이네",
-    "id": 70,
-    "official_name": "으뜸이네",
-    "category": "분식",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 천마로72번길 12",
-    "contact": "없음",
-    "distance": 2477,
-    "x": 129.3983,
-    "y": 36.08289,
-    "link": "http://place.map.kakao.com/27108409",
-    "menu": null,
-    "opening_hours": null,
-    "picture": null,
-    "likes": 0,
     "bookmark_count": 0,
-    "service": 0,
+    "category": "분식",
     "comments_count": 0,
-    "flavor": 0,
+    "contact": "없음",
     "cost_performance": 0,
     "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "distance": 2477,
+    "dong": "양덕동",
+    "flavor": 0,
+    "id": 70,
+    "likes": 0,
+    "link": "http://place.map.kakao.com/27108409",
+    "name": "으뜸이네",
+    "official_name": "으뜸이네",
+    "service": 0,
+    "total": 0,
+    "x": 129.3983,
+    "y": 36.08289
   },
   {
-    "name": "일봉족발",
-    "id": 71,
-    "official_name": "일봉족발 장량법원점",
-    "category": "족발 / 보쌈",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 장량중앙로 30",
+    "bookmark_count": 0,
+    "category": "족발 / 보쌈",
+    "comments_count": 0,
     "contact": "054-253-4141",
+    "cost_performance": 0,
+    "delivery_availability": "true",
     "distance": 1484,
-    "x": 129.3847,
-    "y": 36.09049,
+    "dong": "양덕동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "11:00",
+          "23:00"
+        ]
+      ],
+      "목": [
+        [
+          "11:00",
+          "23:00"
+        ]
+      ],
+      "수": [
+        [
+          "11:00",
+          "23:00"
+        ]
+      ],
+      "월": [
+        [
+          "11:00",
+          "23:00"
+        ]
+      ],
+      "일": [
+        [
+          "11:00",
+          "23:00"
+        ]
+      ],
+      "토": [
+        [
+          "11:00",
+          "23:00"
+        ]
+      ],
+      "화": [
+        [
+          "11:00",
+          "23:00"
+        ]
+      ]
+    },
+    "id": 71,
+    "likes": 0,
     "link": "http://place.map.kakao.com/602238908",
     "menu": [
       "보쌈(소): 10000",
@@ -2341,30 +4604,80 @@
       "매운족발(소): 9000",
       "오돌족발(소): 7000"
     ],
+    "name": "일봉족발",
+    "official_name": "일봉족발 장량법원점",
     "opening_hours": "매일 11:00 ~ 23:00",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "true",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3847,
+    "y": 36.09049
   },
   {
-    "name": "장기식당",
-    "id": 72,
-    "official_name": "장기식당",
-    "category": "한식",
-    "dong": "죽도동",
     "address": "경북 포항시 북구 죽도시장3길 9-12",
+    "bookmark_count": 0,
+    "category": "한식",
+    "comments_count": 0,
     "contact": "054-247-0764",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 7788,
-    "x": 129.3655,
-    "y": 36.03585,
+    "dong": "죽도동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "휴무일: 첫째 셋째 월요일",
+      "breakDay": [
+        1
+      ],
+      "breakWeek": [
+        0,
+        2
+      ],
+      "onlyBreak": false,
+      "금": [
+        [
+          "08:00",
+          "20:30(재료소진시 마감)"
+        ]
+      ],
+      "목": [
+        [
+          "08:00",
+          "20:30(재료소진시 마감)"
+        ]
+      ],
+      "수": [
+        [
+          "08:00",
+          "20:30(재료소진시 마감)"
+        ]
+      ],
+      "월": [
+        [
+          "08:00",
+          "20:30(재료소진시 마감)"
+        ]
+      ],
+      "일": [
+        [
+          "08:00",
+          "20:30(재료소진시 마감)"
+        ]
+      ],
+      "토": [
+        [
+          "08:00",
+          "20:30(재료소진시 마감)"
+        ]
+      ],
+      "화": [
+        [
+          "08:00",
+          "20:30(재료소진시 마감)"
+        ]
+      ]
+    },
+    "id": 72,
+    "likes": 0,
     "link": "http://place.map.kakao.com/16497710",
     "menu": [
       "곰탕 (대): 13000",
@@ -2372,88 +4685,126 @@
       "수육 (대): 45000",
       "수육 (소): 35000"
     ],
+    "name": "장기식당",
+    "official_name": "장기식당",
     "opening_hours": [
       "매일 08:00 ~ 20:30(재료소진시 마감)",
       "첫째 셋째 월요일"
     ],
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3655,
+    "y": 36.03585
   },
   {
-    "name": "전주콩나루콩나물국밥",
-    "id": 73,
-    "official_name": "전주콩나루콩나물국밥",
-    "category": "한식",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 장량중앙로46번길 3-17",
-    "contact": "054-242-7999",
-    "distance": 1660,
-    "x": 129.387,
-    "y": 36.08865,
-    "link": "http://place.map.kakao.com/25537580",
-    "menu": null,
-    "opening_hours": "월 07:00 ~ 15:00",
-    "picture": null,
-    "likes": 0,
     "bookmark_count": 0,
-    "service": 0,
+    "category": "한식",
     "comments_count": 0,
-    "flavor": 0,
+    "contact": "054-242-7999",
     "cost_performance": 0,
     "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "distance": 1660,
+    "dong": "양덕동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "07:00",
+          "22:00"
+        ]
+      ],
+      "목": [
+        [
+          "07:00",
+          "22:00"
+        ]
+      ],
+      "수": [
+        [
+          "07:00",
+          "22:00"
+        ]
+      ],
+      "월": [
+        [
+          "07:00",
+          "15:00"
+        ]
+      ],
+      "일": [
+        [
+          "07:00",
+          "22:00"
+        ]
+      ],
+      "토": [
+        [
+          "07:00",
+          "22:00"
+        ]
+      ],
+      "화": [
+        [
+          "07:00",
+          "22:00"
+        ]
+      ]
+    },
+    "id": 73,
+    "likes": 0,
+    "link": "http://place.map.kakao.com/25537580",
+    "name": "전주콩나루콩나물국밥",
+    "official_name": "전주콩나루콩나물국밥",
+    "opening_hours": [
+      "화~일 07:00 ~ 22:00",
+      "월 07:00 ~ 15:00"
+    ],
+    "service": 0,
+    "total": 0,
+    "x": 129.387,
+    "y": 36.08865
   },
   {
-    "name": "조선의옛날통닭",
-    "id": 74,
-    "official_name": "조선의옛날통닭 양덕점",
-    "category": "치킨",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 장량중앙로 30",
+    "bookmark_count": 0,
+    "category": "치킨",
+    "comments_count": 0,
     "contact": "054-255-5592",
+    "cost_performance": 0,
+    "delivery_availability": "true",
     "distance": 1478,
-    "x": 129.3847,
-    "y": 36.09055,
+    "dong": "양덕동",
+    "flavor": 0,
+    "id": 74,
+    "likes": 0,
     "link": "http://place.map.kakao.com/27282586",
     "menu": [
       "옛날통닭(한마리): 8000",
       "옛날마늘통닭: 11000"
     ],
-    "opening_hours": null,
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
+    "name": "조선의옛날통닭",
+    "official_name": "조선의옛날통닭 양덕점",
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "true",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3847,
+    "y": 36.09055
   },
   {
-    "name": "지호한방삼계탕",
-    "id": 75,
-    "official_name": "지호한방삼계탕 포항양덕점",
-    "category": "육류 / 고기",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 장량로 243",
+    "bookmark_count": 0,
+    "category": "육류 / 고기",
+    "comments_count": 0,
     "contact": "054-231-3310",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 2924,
-    "x": 129.4071,
-    "y": 36.0823,
+    "dong": "양덕동",
+    "flavor": 0,
+    "id": 75,
+    "likes": 0,
     "link": "http://place.map.kakao.com/20204557",
     "menu": [
       "건강한방삼계탕: 15000",
@@ -2461,114 +4812,190 @@
       "오리닭가슴살떡갈비: 15000",
       "천마오리보양탕: 60000"
     ],
-    "opening_hours": null,
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
+    "name": "지호한방삼계탕",
+    "official_name": "지호한방삼계탕 포항양덕점",
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.4071,
+    "y": 36.0823
   },
   {
-    "name": "진배기원조할매국밥",
-    "id": 76,
-    "official_name": "진배기원조할매국밥 양덕점",
-    "category": "한식",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 천마로 102",
+    "bookmark_count": 0,
+    "category": "한식",
+    "comments_count": 0,
     "contact": "054-231-0666",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 2152,
-    "x": 129.397,
-    "y": 36.08563,
+    "dong": "양덕동",
+    "flavor": 0,
+    "id": 76,
+    "likes": 0,
     "link": "http://place.map.kakao.com/27457936",
     "menu": [
       "할매국밥: 0",
       "순대국밥: 0",
       "모둠국밥: 0"
     ],
-    "opening_hours": null,
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
+    "name": "진배기원조할매국밥",
+    "official_name": "진배기원조할매국밥 양덕점",
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.397,
+    "y": 36.08563
   },
   {
-    "name": "진짜배기119",
-    "id": 77,
-    "official_name": "진짜배기119 장성점",
-    "category": "육류 / 고기",
-    "dong": "장성동",
     "address": "경북 포항시 북구 새천년대로 1322",
+    "bookmark_count": 0,
+    "category": "육류 / 고기",
+    "comments_count": 0,
     "contact": "054-241-1190",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 3140,
-    "x": 129.3916,
-    "y": 36.07546,
+    "dong": "장성동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "12:00",
+          "22:30"
+        ]
+      ],
+      "목": [
+        [
+          "12:00",
+          "22:30"
+        ]
+      ],
+      "수": [
+        [
+          "12:00",
+          "22:30"
+        ]
+      ],
+      "월": [
+        [
+          "12:00",
+          "22:30"
+        ]
+      ],
+      "일": [
+        [
+          "12:00",
+          "22:30"
+        ]
+      ],
+      "토": [
+        [
+          "12:00",
+          "22:30"
+        ]
+      ],
+      "화": [
+        [
+          "12:00",
+          "22:30"
+        ]
+      ]
+    },
+    "id": 77,
+    "likes": 0,
     "link": "http://place.map.kakao.com/364132866",
     "menu": [
       "고기무한리필: 13900"
     ],
+    "name": "진짜배기119",
+    "official_name": "진짜배기119 장성점",
     "opening_hours": "매일 12:00 ~ 22:30",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3916,
+    "y": 36.07546
   },
   {
-    "name": "집밥한끼",
-    "id": 78,
-    "official_name": "집밥한끼",
-    "category": "한식",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 장량주택로 8",
-    "contact": "054-252-5733",
-    "distance": 1732,
-    "x": 129.3898,
-    "y": 36.08805,
-    "link": "http://place.map.kakao.com/164778038",
-    "menu": null,
-    "opening_hours": null,
-    "picture": null,
-    "likes": 0,
     "bookmark_count": 0,
-    "service": 0,
+    "category": "한식",
     "comments_count": 0,
-    "flavor": 0,
+    "contact": "054-252-5733",
     "cost_performance": 0,
     "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "distance": 1732,
+    "dong": "양덕동",
+    "flavor": 0,
+    "id": 78,
+    "likes": 0,
+    "link": "http://place.map.kakao.com/164778038",
+    "name": "집밥한끼",
+    "official_name": "집밥한끼",
+    "service": 0,
+    "total": 0,
+    "x": 129.3898,
+    "y": 36.08805
   },
   {
-    "name": "짬뽕마스터",
-    "id": 79,
-    "official_name": "짬뽕마스터",
-    "category": "중식",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 양덕남로 53",
+    "bookmark_count": 0,
+    "category": "중식",
+    "comments_count": 0,
     "contact": "054-255-0707",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 2910,
-    "x": 129.3982,
-    "y": 36.07872,
+    "dong": "양덕동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ],
+      "목": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ],
+      "수": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ],
+      "월": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ],
+      "일": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ],
+      "토": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ],
+      "화": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ]
+    },
+    "id": 79,
+    "likes": 0,
     "link": "http://place.map.kakao.com/568844363",
     "menu": [
       "마스터짜장: 5000",
@@ -2577,30 +5004,27 @@
       "찹쌀탕수육(미니): 8000",
       "튀김만두(소): 3000"
     ],
+    "name": "짬뽕마스터",
+    "official_name": "짬뽕마스터",
     "opening_hours": "매일 11:00 ~ 22:00",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3982,
+    "y": 36.07872
   },
   {
-    "name": "참뼈",
-    "id": 80,
-    "official_name": "참뼈 양덕점",
-    "category": "한식",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 천마로 84",
+    "bookmark_count": 0,
+    "category": "한식",
+    "comments_count": 0,
     "contact": "054-243-9393",
+    "cost_performance": 0,
+    "delivery_availability": "true",
     "distance": 2317,
-    "x": 129.3972,
-    "y": 36.08408,
+    "dong": "양덕동",
+    "flavor": 0,
+    "id": 80,
+    "likes": 0,
     "link": "http://place.map.kakao.com/13272355",
     "menu": [
       "뼈해장국: 7000",
@@ -2609,30 +5033,26 @@
       "감자탕 (소): 22000",
       "매콤 등뼈찜 (중): 29000"
     ],
-    "opening_hours": null,
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
+    "name": "참뼈",
+    "official_name": "참뼈 양덕점",
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "true",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3972,
+    "y": 36.08408
   },
   {
-    "name": "처갓집양념치킨",
-    "id": 81,
-    "official_name": "처갓집양념치킨 법원점",
-    "category": "치킨",
-    "dong": "장성동",
     "address": "경북 포항시 북구 신덕로 289",
+    "bookmark_count": 0,
+    "category": "치킨",
+    "comments_count": 0,
     "contact": "054-252-9946",
+    "cost_performance": 0,
+    "delivery_availability": "true",
     "distance": 1692,
-    "x": 129.3848,
-    "y": 36.08857,
+    "dong": "장성동",
+    "flavor": 0,
+    "id": 81,
+    "likes": 0,
     "link": "http://place.map.kakao.com/1229769759",
     "menu": [
       "슈프림양념치킨: 18000",
@@ -2643,30 +5063,72 @@
       "100%청양산 고추치킨: 19000",
       "허니올리고당야채 양념치킨: 0"
     ],
-    "opening_hours": null,
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
+    "name": "처갓집양념치킨",
+    "official_name": "처갓집양념치킨 법원점",
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "true",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3848,
+    "y": 36.08857
   },
   {
-    "name": "청년다방",
-    "id": 82,
-    "official_name": "청년다방 포항양덕점",
-    "category": "분식",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 장량중앙로 55",
+    "bookmark_count": 0,
+    "category": "분식",
+    "comments_count": 0,
     "contact": "054-251-7770",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 1475,
-    "x": 129.3882,
-    "y": 36.0903,
+    "dong": "양덕동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ],
+      "목": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ],
+      "수": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ],
+      "월": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ],
+      "일": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ],
+      "토": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ],
+      "화": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ]
+    },
+    "id": 82,
+    "likes": 0,
     "link": "http://place.map.kakao.com/1727430351",
     "menu": [
       "통큰오짱 떡볶이: 0",
@@ -2678,30 +5140,73 @@
       "찰순대: 0",
       "다모아튀김: 0"
     ],
+    "name": "청년다방",
+    "official_name": "청년다방 포항양덕점",
     "opening_hours": "매일 11:00 ~ 22:00",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3882,
+    "y": 36.0903
   },
   {
-    "name": "커피유야",
-    "id": 83,
-    "official_name": "커피유야",
-    "category": "카페 / 디저트",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 천마로46번길 24",
+    "bookmark_count": 0,
+    "category": "카페 / 디저트",
+    "comments_count": 0,
     "contact": "없음",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 2767,
-    "x": 129.3996,
-    "y": 36.08052,
+    "dong": "양덕동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "08:00",
+          "24:00"
+        ]
+      ],
+      "목": [
+        [
+          "08:00",
+          "24:00"
+        ]
+      ],
+      "수": [
+        [
+          "08:00",
+          "24:00"
+        ]
+      ],
+      "월": [
+        [
+          "08:00",
+          "24:00"
+        ]
+      ],
+      "일": [
+        [
+          "08:00",
+          "24:00"
+        ]
+      ],
+      "토": [
+        [
+          "08:00",
+          "24:00"
+        ]
+      ],
+      "화": [
+        [
+          "08:00",
+          "24:00"
+        ]
+      ]
+    },
+    "id": 83,
+    "likes": 0,
     "link": "http://place.map.kakao.com/1238140016",
     "menu": [
       "아메리카노: 3500",
@@ -2710,30 +5215,73 @@
       "레몬에이드: 4500",
       "바나나주스: 5500"
     ],
+    "name": "커피유야",
+    "official_name": "커피유야",
     "opening_hours": "매일 08:00 ~ 24:00",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3996,
+    "y": 36.08052
   },
   {
-    "name": "쿠라다이닝",
-    "id": 84,
-    "official_name": "쿠라다이닝",
-    "category": "술집",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 장량주택로13번길 8",
+    "bookmark_count": 0,
+    "category": "돈까스 / 회 / 일식",
+    "comments_count": 0,
     "contact": "054-255-6385",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 1634,
-    "x": 129.389,
-    "y": 36.08888,
+    "dong": "양덕동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "17:00",
+          "23:00"
+        ]
+      ],
+      "목": [
+        [
+          "17:00",
+          "23:00"
+        ]
+      ],
+      "수": [
+        [
+          "17:00",
+          "23:00"
+        ]
+      ],
+      "월": [
+        [
+          "17:00",
+          "23:00"
+        ]
+      ],
+      "일": [
+        [
+          "17:00",
+          "23:00"
+        ]
+      ],
+      "토": [
+        [
+          "17:00",
+          "23:00"
+        ]
+      ],
+      "화": [
+        [
+          "17:00",
+          "23:00"
+        ]
+      ]
+    },
+    "id": 84,
+    "likes": 0,
     "link": "http://place.map.kakao.com/1942298999",
     "menu": [
       "숙성사시미+한우화로구이 세트: 58000",
@@ -2741,30 +5289,101 @@
       "초밥: 20000",
       "카레덮밥: 9000"
     ],
+    "name": "쿠라다이닝",
+    "official_name": "쿠라다이닝",
     "opening_hours": "매일 17:00 ~ 23:00",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.389,
+    "y": 36.08888
   },
   {
-    "name": "쿠킹빌리지",
-    "id": 85,
-    "official_name": "쿠킹빌리지 양식당 포항양덕점",
-    "category": "양식",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 장량로 141",
+    "bookmark_count": 0,
+    "category": "양식",
+    "comments_count": 0,
     "contact": "054-247-0502",
+    "cost_performance": 0,
+    "delivery_availability": "true",
     "distance": 2499,
-    "x": 129.3959,
-    "y": 36.08202,
+    "dong": "양덕동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "11:30",
+          "14:30"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "목": [
+        [
+          "11:30",
+          "14:30"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "수": [
+        [
+          "11:30",
+          "14:30"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "월": [
+        [
+          "11:30",
+          "14:30"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "일": [
+        [
+          "11:30",
+          "14:30"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "토": [
+        [
+          "11:30",
+          "14:30"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ],
+      "화": [
+        [
+          "11:30",
+          "14:30"
+        ],
+        [
+          "17:00",
+          "21:30"
+        ]
+      ]
+    },
+    "id": 85,
+    "likes": 0,
     "link": "http://place.map.kakao.com/18557822",
     "menu": [
       "그릴 스테이크: 21500",
@@ -2773,33 +5392,37 @@
       "새우 필라프: 21500",
       "훈제연어 샐러드: 13000"
     ],
+    "name": "쿠킹빌리지",
+    "official_name": "쿠킹빌리지 양식당 포항양덕점",
     "opening_hours": [
       "매일 11:30 ~ 21:30",
       "매일 브레이크타임 14:30 ~ 17:00"
     ],
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "true",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3959,
+    "y": 36.08202
   },
   {
-    "name": "쿡피쉬",
-    "id": 86,
-    "official_name": "쿡피쉬",
-    "category": "돈까스 / 회 / 일식",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 양덕남로 65",
+    "bookmark_count": 0,
+    "category": "돈까스 / 회 / 일식",
+    "comments_count": 0,
     "contact": "054-251-0606",
+    "cost_performance": 0,
+    "delivery_availability": "true",
     "distance": 2946,
-    "x": 129.3994,
-    "y": 36.07869,
+    "dong": "양덕동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "휴무일: 월요일",
+      "breakDay": [
+        1
+      ],
+      "onlyBreak": true
+    },
+    "id": 86,
+    "likes": 0,
     "link": "http://place.map.kakao.com/680896700",
     "menu": [
       "모듬 사시미: 30000",
@@ -2807,59 +5430,60 @@
       "모듬생선구이: 26000",
       "어묵탕: 18000"
     ],
+    "name": "쿡피쉬",
+    "official_name": "쿡피쉬",
     "opening_hours": "휴무일: 월요일",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "true",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3994,
+    "y": 36.07869
   },
   {
-    "name": "큰손칼국수",
-    "id": 87,
-    "official_name": "큰손칼국수",
-    "category": "한식",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 장량로158번길 5-14",
+    "bookmark_count": 0,
+    "category": "한식",
+    "comments_count": 0,
     "contact": "054-253-9940",
+    "cost_performance": 0,
+    "delivery_availability": "true",
     "distance": 2680,
-    "x": 129.3985,
-    "y": 36.08101,
+    "dong": "양덕동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "휴무일: 월요일",
+      "breakDay": [
+        1
+      ],
+      "onlyBreak": true
+    },
+    "id": 87,
+    "likes": 0,
     "link": "http://place.map.kakao.com/869018259",
     "menu": [
       "하얀해물칼국수(소): 14000",
       "빨간얼큰해물칼국수(소): 14000"
     ],
+    "name": "큰손칼국수",
+    "official_name": "큰손칼국수",
     "opening_hours": "휴무일: 월요일",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "true",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3985,
+    "y": 36.08101
   },
   {
-    "name": "태산만두",
-    "id": 88,
-    "official_name": "태산만두",
-    "category": "분식",
-    "dong": "환호동",
     "address": "경북 포항시 북구 해안로445번길 20-1",
+    "bookmark_count": 0,
+    "category": "분식",
+    "comments_count": 0,
     "contact": "없음",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 3655,
-    "x": 129.4047,
-    "y": 36.07359,
+    "dong": "환호동",
+    "flavor": 0,
+    "id": 88,
+    "likes": 0,
     "link": "http://place.map.kakao.com/177177002",
     "menu": [
       "군만두: 5000",
@@ -2868,59 +5492,97 @@
       "우동: 5000",
       "충무김밥: 6000"
     ],
-    "opening_hours": null,
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
+    "name": "태산만두",
+    "official_name": "태산만두",
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.4047,
+    "y": 36.07359
   },
   {
-    "name": "태영막창",
-    "id": 89,
-    "official_name": "태영막창",
-    "category": "육류 / 고기",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 천마로46번길 13",
+    "bookmark_count": 0,
+    "category": "육류 / 고기",
+    "comments_count": 0,
     "contact": "없음",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 2701,
-    "x": 129.3986,
-    "y": 36.08083,
+    "dong": "양덕동",
+    "flavor": 0,
+    "id": 89,
+    "likes": 0,
     "link": "http://place.map.kakao.com/27438010",
     "menu": [
       "막창(150g): 8000",
       "삼겹살(120g): 8000"
     ],
-    "opening_hours": null,
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
+    "name": "태영막창",
+    "official_name": "태영막창",
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3986,
+    "y": 36.08083
   },
   {
-    "name": "태화횟집",
-    "id": 90,
-    "official_name": "태화횟집",
-    "category": "돈까스 / 회 / 일식",
-    "dong": "여남동",
     "address": "경북 포항시 북구 여남포길 57-1",
+    "bookmark_count": 0,
+    "category": "돈까스 / 회 / 일식",
+    "comments_count": 0,
     "contact": "054-251-7678",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 3946,
-    "x": 129.4115,
-    "y": 36.07359,
+    "dong": "여남동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "11:00",
+          "21:00"
+        ]
+      ],
+      "목": [
+        [
+          "11:00",
+          "21:00"
+        ]
+      ],
+      "수": [
+        [
+          "11:00",
+          "21:00"
+        ]
+      ],
+      "월": [
+        [
+          "11:00",
+          "21:00"
+        ]
+      ],
+      "일": [
+        [
+          "11:00",
+          "21:00"
+        ]
+      ],
+      "토": [
+        [
+          "11:00",
+          "21:00"
+        ]
+      ],
+      "화": [
+        [
+          "11:00",
+          "21:00"
+        ]
+      ]
+    },
+    "id": 90,
+    "likes": 0,
     "link": "http://place.map.kakao.com/10660554",
     "menu": [
       "물회: 15000",
@@ -2932,30 +5594,27 @@
       "해삼: 0",
       "고동: 0"
     ],
+    "name": "태화횟집",
+    "official_name": "태화횟집",
     "opening_hours": "매일 11:00 ~ 21:00",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.4115,
+    "y": 36.07359
   },
   {
-    "name": "탭앤프리츠",
-    "id": 91,
-    "official_name": "탭앤프리츠",
-    "category": "술집",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 장량로189번길 5-10",
+    "bookmark_count": 0,
+    "category": "술집",
+    "comments_count": 0,
     "contact": "054-256-0022",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 2584,
-    "x": 129.4005,
-    "y": 36.08263,
+    "dong": "양덕동",
+    "flavor": 0,
+    "id": 91,
+    "likes": 0,
     "link": "http://place.map.kakao.com/21304113",
     "menu": [
       "국산생감자튀김: 6000",
@@ -2964,30 +5623,92 @@
       "황도: 5000",
       "씬플레인피자: 7000"
     ],
-    "opening_hours": null,
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
+    "name": "탭앤프리츠",
+    "official_name": "탭앤프리츠",
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.4005,
+    "y": 36.08263
   },
   {
-    "name": "토마틸로",
-    "id": 92,
-    "official_name": "토마틸로 포항점",
-    "category": "양식",
-    "dong": "두호동",
     "address": "경북 포항시 북구 해안로 221",
+    "bookmark_count": 0,
+    "category": "양식",
+    "comments_count": 0,
     "contact": "054-256-9878",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 4365,
-    "x": 129.3875,
-    "y": 36.06426,
+    "dong": "두호동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "11:30",
+          "16:00"
+        ],
+        [
+          "17:00",
+          "22:00"
+        ]
+      ],
+      "목": [
+        [
+          "11:30",
+          "16:00"
+        ],
+        [
+          "17:00",
+          "22:00"
+        ]
+      ],
+      "수": [
+        [
+          "11:30",
+          "16:00"
+        ],
+        [
+          "17:00",
+          "22:00"
+        ]
+      ],
+      "월": [
+        [
+          "11:30",
+          "16:00"
+        ],
+        [
+          "17:00",
+          "22:00"
+        ]
+      ],
+      "일": [
+        [
+          "11:30",
+          "22:00"
+        ]
+      ],
+      "토": [
+        [
+          "11:30",
+          "22:00"
+        ]
+      ],
+      "화": [
+        [
+          "11:30",
+          "16:00"
+        ],
+        [
+          "17:00",
+          "22:00"
+        ]
+      ]
+    },
+    "id": 92,
+    "likes": 0,
     "link": "http://place.map.kakao.com/147996019",
     "menu": [
       "스테이크 치즈 스커트 타코: 12000",
@@ -2996,33 +5717,76 @@
       "캘리포니아 스타일 브리또: 13000",
       "치킨 퀘사디아: 12000"
     ],
+    "name": "토마틸로",
+    "official_name": "토마틸로 포항점",
     "opening_hours": [
       "매일 11:30 ~ 22:00",
       "월~금 브레이크타임 16:00 ~ 17:00"
     ],
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3875,
+    "y": 36.06426
   },
   {
-    "name": "토시래",
-    "id": 93,
-    "official_name": "토시래 포항양덕점",
-    "category": "족발 / 보쌈",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 천마로46번길 10",
+    "bookmark_count": 0,
+    "category": "족발 / 보쌈",
+    "comments_count": 0,
     "contact": "054-254-7825",
+    "cost_performance": 0,
+    "delivery_availability": "true",
     "distance": 2718,
-    "x": 129.3981,
-    "y": 36.08051,
+    "dong": "양덕동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "12:00",
+          "02:00"
+        ]
+      ],
+      "목": [
+        [
+          "12:00",
+          "02:00"
+        ]
+      ],
+      "수": [
+        [
+          "12:00",
+          "02:00"
+        ]
+      ],
+      "월": [
+        [
+          "12:00",
+          "02:00"
+        ]
+      ],
+      "일": [
+        [
+          "12:00",
+          "02:00"
+        ]
+      ],
+      "토": [
+        [
+          "12:00",
+          "02:00"
+        ]
+      ],
+      "화": [
+        [
+          "12:00",
+          "02:00"
+        ]
+      ]
+    },
+    "id": 93,
+    "likes": 0,
     "link": "http://place.map.kakao.com/26611330",
     "menu": [
       "굴보쌈: 0",
@@ -3033,30 +5797,93 @@
       "토시래감자탕: 0",
       "콩나물해물족발: 0"
     ],
+    "name": "토시래",
+    "official_name": "토시래 포항양덕점",
     "opening_hours": "매일 12:00 ~ 02:00",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "true",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3981,
+    "y": 36.08051
   },
   {
-    "name": "팔선",
-    "id": 94,
-    "official_name": "팔선",
-    "category": "중식",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 천마로 78",
+    "bookmark_count": 0,
+    "category": "중식",
+    "comments_count": 0,
     "contact": "054-249-6611",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 2385,
-    "x": 129.3971,
-    "y": 36.08341,
+    "dong": "양덕동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "11:30",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "21:00"
+        ]
+      ],
+      "목": [
+        [
+          "11:30",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "21:00"
+        ]
+      ],
+      "수": [
+        [
+          "11:30",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "21:00"
+        ]
+      ],
+      "월": [
+        [
+          "11:30",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "21:00"
+        ]
+      ],
+      "일": [
+        [
+          "11:30",
+          "21:00"
+        ]
+      ],
+      "토": [
+        [
+          "11:30",
+          "21:00"
+        ]
+      ],
+      "화": [
+        [
+          "11:30",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "21:00"
+        ]
+      ]
+    },
+    "id": 94,
+    "likes": 0,
     "link": "http://place.map.kakao.com/15200557",
     "menu": [
       "철판장어 (S): 55000",
@@ -3067,33 +5894,76 @@
       "어향동고 (S): 28000",
       "가지튀김 (S): 17000"
     ],
+    "name": "팔선",
+    "official_name": "팔선",
     "opening_hours": [
       "매일 11:30 ~ 21:00",
       "월~금 브레이크타임 15:00 ~ 17:00"
     ],
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3971,
+    "y": 36.08341
   },
   {
-    "name": "포메인",
-    "id": 95,
-    "official_name": "포메인 포항양덕점",
-    "category": "아시안",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 천마로 73",
+    "bookmark_count": 0,
+    "category": "아시안",
+    "comments_count": 0,
     "contact": "054-254-1160",
+    "cost_performance": 0,
+    "delivery_availability": "true",
     "distance": 2398,
-    "x": 129.3965,
-    "y": 36.08312,
+    "dong": "양덕동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ],
+      "목": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ],
+      "수": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ],
+      "월": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ],
+      "일": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ],
+      "토": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ],
+      "화": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ]
+    },
+    "id": 95,
+    "likes": 0,
     "link": "http://place.map.kakao.com/17152209",
     "menu": [
       "닭고기 덮밥: 12500",
@@ -3134,30 +6004,27 @@
       "해산물 쌀국수(S): 11000",
       "해산물 팟타이: 12500"
     ],
+    "name": "포메인",
+    "official_name": "포메인 포항양덕점",
     "opening_hours": "매일 11:00 ~ 22:00",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "true",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3965,
+    "y": 36.08312
   },
   {
-    "name": "포차력이네",
-    "id": 96,
-    "official_name": "포차력이네",
-    "category": "술집",
-    "dong": "장성동",
     "address": "경북 포항시 북구 법원로11번길 8",
+    "bookmark_count": 0,
+    "category": "술집",
+    "comments_count": 0,
     "contact": "054-241-0322",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 3046,
-    "x": 129.3854,
-    "y": 36.07622,
+    "dong": "장성동",
+    "flavor": 0,
+    "id": 96,
+    "likes": 0,
     "link": "http://place.map.kakao.com/235984482",
     "menu": [
       "코다리찜: 20000",
@@ -3167,30 +6034,72 @@
       "백고동: 30000",
       "연포탕: 0"
     ],
-    "opening_hours": null,
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
+    "name": "포차력이네",
+    "official_name": "포차력이네",
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3854,
+    "y": 36.07622
   },
   {
-    "name": "퓨전쓰촨1995",
-    "id": 97,
-    "official_name": "퓨전쓰촨1995",
-    "category": "중식",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 장량중앙로 82-1",
+    "bookmark_count": 0,
+    "category": "중식",
+    "comments_count": 0,
     "contact": "054-252-0958",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 1607,
-    "x": 129.3907,
-    "y": 36.08928,
+    "dong": "양덕동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "11:30",
+          "02:00"
+        ]
+      ],
+      "목": [
+        [
+          "11:30",
+          "02:00"
+        ]
+      ],
+      "수": [
+        [
+          "11:30",
+          "02:00"
+        ]
+      ],
+      "월": [
+        [
+          "11:30",
+          "02:00"
+        ]
+      ],
+      "일": [
+        [
+          "11:30",
+          "02:00"
+        ]
+      ],
+      "토": [
+        [
+          "11:30",
+          "02:00"
+        ]
+      ],
+      "화": [
+        [
+          "11:30",
+          "02:00"
+        ]
+      ]
+    },
+    "id": 97,
+    "likes": 0,
     "link": "http://place.map.kakao.com/1638004277",
     "menu": [
       "김치짜장: 6500",
@@ -3208,30 +6117,101 @@
       "짬뽕탕: 7000",
       "냉우동: 7000"
     ],
+    "name": "퓨전쓰촨1995",
+    "official_name": "퓨전쓰촨1995",
     "opening_hours": "매일 11:30 ~ 02:00",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3907,
+    "y": 36.08928
   },
   {
-    "name": "하나스시",
-    "id": 98,
-    "official_name": "하나스시",
-    "category": "돈까스 / 회 / 일식",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 천마로46번길 17",
+    "bookmark_count": 0,
+    "category": "돈까스 / 회 / 일식",
+    "comments_count": 0,
     "contact": "054-256-6237",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 2709,
-    "x": 129.3989,
-    "y": 36.08084,
+    "dong": "양덕동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "11:30",
+          "15:00"
+        ],
+        [
+          "16:30",
+          "22:00"
+        ]
+      ],
+      "목": [
+        [
+          "11:30",
+          "15:00"
+        ],
+        [
+          "16:30",
+          "22:00"
+        ]
+      ],
+      "수": [
+        [
+          "11:30",
+          "15:00"
+        ],
+        [
+          "16:30",
+          "22:00"
+        ]
+      ],
+      "월": [
+        [
+          "11:30",
+          "15:00"
+        ],
+        [
+          "16:30",
+          "22:00"
+        ]
+      ],
+      "일": [
+        [
+          "11:30",
+          "15:00"
+        ],
+        [
+          "16:30",
+          "22:00"
+        ]
+      ],
+      "토": [
+        [
+          "11:30",
+          "15:00"
+        ],
+        [
+          "16:30",
+          "22:00"
+        ]
+      ],
+      "화": [
+        [
+          "11:30",
+          "15:00"
+        ],
+        [
+          "16:30",
+          "22:00"
+        ]
+      ]
+    },
+    "id": 98,
+    "likes": 0,
     "link": "http://place.map.kakao.com/984588146",
     "menu": [
       "오마카세 사시미 (1인): 27000",
@@ -3240,33 +6220,76 @@
       "혼마구로 스페셜 (중): 100000",
       "복지리 (중): 30000"
     ],
+    "name": "하나스시",
+    "official_name": "하나스시",
     "opening_hours": [
       "매일 11:30 ~ 22:00",
       "매일 브레이크타임 15:00 ~ 16:30"
     ],
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3989,
+    "y": 36.08084
   },
   {
-    "name": "하면옥",
-    "id": 99,
-    "official_name": "하면옥 포항점",
-    "category": "한식",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 장량로 187",
+    "bookmark_count": 0,
+    "category": "한식",
+    "comments_count": 0,
     "contact": "054-247-1774",
+    "cost_performance": 0,
+    "delivery_availability": "true",
     "distance": 2648,
-    "x": 129.4009,
-    "y": 36.08214,
+    "dong": "양덕동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "11:00",
+          "21:30"
+        ]
+      ],
+      "목": [
+        [
+          "11:00",
+          "21:30"
+        ]
+      ],
+      "수": [
+        [
+          "11:00",
+          "21:30"
+        ]
+      ],
+      "월": [
+        [
+          "11:00",
+          "21:30"
+        ]
+      ],
+      "일": [
+        [
+          "11:00",
+          "21:30"
+        ]
+      ],
+      "토": [
+        [
+          "11:00",
+          "21:30"
+        ]
+      ],
+      "화": [
+        [
+          "11:00",
+          "21:30"
+        ]
+      ]
+    },
+    "id": 99,
+    "likes": 0,
     "link": "http://place.map.kakao.com/1519950155",
     "menu": [
       "갈비탕: 10000",
@@ -3275,30 +6298,91 @@
       "물냉면 (중): 9000",
       "수제만두전골 (1인): 12000"
     ],
+    "name": "하면옥",
+    "official_name": "하면옥 포항점",
     "opening_hours": "매일 11:00 ~ 21:30",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "true",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.4009,
+    "y": 36.08214
   },
   {
-    "name": "하찌밥상",
-    "id": 100,
-    "official_name": "하찌밥상",
-    "category": "한식",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 장량주택로13번길 3",
+    "bookmark_count": 0,
+    "category": "한식",
+    "comments_count": 0,
     "contact": "054-241-7800",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 1675,
-    "x": 129.3894,
-    "y": 36.08854,
+    "dong": "양덕동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "11:30",
+          "14:30"
+        ],
+        [
+          "17:30",
+          "20:30"
+        ]
+      ],
+      "목": [
+        [
+          "11:30",
+          "14:30"
+        ],
+        [
+          "17:30",
+          "20:30"
+        ]
+      ],
+      "수": [
+        [
+          "11:30",
+          "14:30"
+        ],
+        [
+          "17:30",
+          "20:30"
+        ]
+      ],
+      "월": [
+        [
+          "11:30",
+          "14:30"
+        ],
+        [
+          "17:30",
+          "20:30"
+        ]
+      ],
+      "토": [
+        [
+          "11:30",
+          "14:30"
+        ],
+        [
+          "17:30",
+          "20:30"
+        ]
+      ],
+      "화": [
+        [
+          "11:30",
+          "14:30"
+        ],
+        [
+          "17:30",
+          "20:30"
+        ]
+      ]
+    },
+    "id": 100,
+    "likes": 0,
     "link": "http://place.map.kakao.com/167157659",
     "menu": [
       "차돌박이된장찌개: 9000",
@@ -3306,90 +6390,226 @@
       "오삼불고기정식: 10000",
       "항정살덮밥: 10000"
     ],
+    "name": "하찌밥상",
+    "official_name": "하찌밥상",
     "opening_hours": [
       "월~토 11:30 ~ 20:30",
       "월~토 브레이크타임 14:30 ~ 17:30"
     ],
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3894,
+    "y": 36.08854
   },
   {
-    "name": "한근반근",
-    "id": 101,
-    "official_name": "한근반근",
-    "category": "육류 / 고기",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 천마로 86",
-    "contact": "054-242-5269",
-    "distance": 2303,
-    "x": 129.3972,
-    "y": 36.08421,
-    "link": "http://place.map.kakao.com/27503736",
-    "menu": null,
-    "opening_hours": "매일 11:00 ~ 01:00",
-    "picture": null,
-    "likes": 0,
     "bookmark_count": 0,
-    "service": 0,
+    "category": "육류 / 고기",
     "comments_count": 0,
-    "flavor": 0,
+    "contact": "054-242-5269",
     "cost_performance": 0,
     "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "distance": 2303,
+    "dong": "양덕동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "11:00",
+          "01:00"
+        ]
+      ],
+      "목": [
+        [
+          "11:00",
+          "01:00"
+        ]
+      ],
+      "수": [
+        [
+          "11:00",
+          "01:00"
+        ]
+      ],
+      "월": [
+        [
+          "11:00",
+          "01:00"
+        ]
+      ],
+      "일": [
+        [
+          "11:00",
+          "01:00"
+        ]
+      ],
+      "토": [
+        [
+          "11:00",
+          "01:00"
+        ]
+      ],
+      "화": [
+        [
+          "11:00",
+          "01:00"
+        ]
+      ]
+    },
+    "id": 101,
+    "likes": 0,
+    "link": "http://place.map.kakao.com/27503736",
+    "name": "한근반근",
+    "official_name": "한근반근",
+    "opening_hours": "매일 11:00 ~ 01:00",
+    "service": 0,
+    "total": 0,
+    "x": 129.3972,
+    "y": 36.08421
   },
   {
-    "name": "한양곱창전골",
-    "id": 102,
-    "official_name": "한양곱창전골",
-    "category": "육류 / 고기",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 양덕로 17-1",
+    "bookmark_count": 0,
+    "category": "육류 / 고기",
+    "comments_count": 0,
     "contact": "054-231-4302",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 2867,
-    "x": 129.4018,
-    "y": 36.0803,
+    "dong": "양덕동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "12:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:50"
+        ]
+      ],
+      "목": [
+        [
+          "12:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:50"
+        ]
+      ],
+      "수": [
+        [
+          "12:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:50"
+        ]
+      ],
+      "월": [
+        [
+          "12:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:50"
+        ]
+      ],
+      "화": [
+        [
+          "12:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:50"
+        ]
+      ]
+    },
+    "id": 102,
+    "likes": 0,
     "link": "http://place.map.kakao.com/11734126",
     "menu": [
       "곱창전골 (한우): 14000"
     ],
+    "name": "한양곱창전골",
+    "official_name": "한양곱창전골",
     "opening_hours": [
       "월~금 12:00 ~ 21:50",
       "월~금 브레이크타임 14:00 ~ 17:00"
     ],
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.4018,
+    "y": 36.0803
   },
   {
-    "name": "한우좋은날",
-    "id": 103,
-    "official_name": "한우좋은날",
-    "category": "한식",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 천마로46번길 23",
+    "bookmark_count": 0,
+    "category": "한식",
+    "comments_count": 0,
     "contact": "054-244-8292",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 2732,
-    "x": 129.3996,
-    "y": 36.08084,
+    "dong": "양덕동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "11:30",
+          "24:00"
+        ]
+      ],
+      "목": [
+        [
+          "11:30",
+          "24:00"
+        ]
+      ],
+      "수": [
+        [
+          "11:30",
+          "24:00"
+        ]
+      ],
+      "월": [
+        [
+          "11:30",
+          "24:00"
+        ]
+      ],
+      "일": [
+        [
+          "11:30",
+          "24:00"
+        ]
+      ],
+      "토": [
+        [
+          "11:30",
+          "24:00"
+        ]
+      ],
+      "화": [
+        [
+          "11:30",
+          "24:00"
+        ]
+      ]
+    },
+    "id": 103,
+    "likes": 0,
     "link": "http://place.map.kakao.com/257148096",
     "menu": [
       "한우 양념갈비살 (100g): 10900",
@@ -3398,30 +6618,73 @@
       "삼겹살 (100g): 7000",
       "목살 (100g): 7000"
     ],
+    "name": "한우좋은날",
+    "official_name": "한우좋은날",
     "opening_hours": "매일 11:30 ~ 24:00",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3996,
+    "y": 36.08084
   },
   {
-    "name": "할매육숫간",
-    "id": 104,
-    "official_name": "할매육숫간 포항점",
-    "category": "육류 / 고기",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 장량로 203",
+    "bookmark_count": 0,
+    "category": "육류 / 고기",
+    "comments_count": 0,
     "contact": "054-254-5559",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 2729,
-    "x": 129.4028,
-    "y": 36.08214,
+    "dong": "양덕동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "12:00",
+          "22:30"
+        ]
+      ],
+      "목": [
+        [
+          "12:00",
+          "22:30"
+        ]
+      ],
+      "수": [
+        [
+          "12:00",
+          "22:30"
+        ]
+      ],
+      "월": [
+        [
+          "12:00",
+          "22:30"
+        ]
+      ],
+      "일": [
+        [
+          "12:00",
+          "22:30"
+        ]
+      ],
+      "토": [
+        [
+          "12:00",
+          "22:30"
+        ]
+      ],
+      "화": [
+        [
+          "12:00",
+          "22:30"
+        ]
+      ]
+    },
+    "id": 104,
+    "likes": 0,
     "link": "http://place.map.kakao.com/27541615",
     "menu": [
       "전통할매돼지갈비 (200g): 7900",
@@ -3430,30 +6693,38 @@
       "칼밥통삼겹 (130g): 7900",
       "대패삼겹살 (100g): 5900"
     ],
+    "name": "할매육숫간",
+    "official_name": "할매육숫간 포항점",
     "opening_hours": "매일 12:00 ~ 22:30",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.4028,
+    "y": 36.08214
   },
   {
-    "name": "해오름바지락칼국수",
-    "id": 105,
-    "official_name": "해오름바지락칼국수",
-    "category": "한식",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 천마로46번길 33",
+    "bookmark_count": 0,
+    "category": "한식",
+    "comments_count": 0,
     "contact": "054-248-7788",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 2768,
-    "x": 129.4006,
-    "y": 36.08086,
+    "dong": "양덕동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "휴무일: 둘째 넷째 화요일",
+      "breakDay": [
+        2
+      ],
+      "breakWeek": [
+        1,
+        3
+      ],
+      "onlyBreak": true
+    },
+    "id": 105,
+    "likes": 0,
     "link": "http://place.map.kakao.com/1212117173",
     "menu": [
       "바지락해물칼국수+열무보리밥: 7000",
@@ -3461,30 +6732,73 @@
       "돈가스: 7000",
       "감자말이새우튀김: 10000"
     ],
+    "name": "해오름바지락칼국수",
+    "official_name": "해오름바지락칼국수",
     "opening_hours": "휴무일: 둘째 넷째 화요일",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.4006,
+    "y": 36.08086
   },
   {
-    "name": "해원숯불갈비",
-    "id": 106,
-    "official_name": "해원숯불갈비 포항본점",
-    "category": "육류 / 고기",
-    "dong": "장성동",
     "address": "경북 포항시 북구 천마로45번길 37",
+    "bookmark_count": 0,
+    "category": "육류 / 고기",
+    "comments_count": 0,
     "contact": "054-247-8123",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 2595,
-    "x": 129.3926,
-    "y": 36.08051,
+    "dong": "장성동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "11:00",
+          "24:00"
+        ]
+      ],
+      "목": [
+        [
+          "11:00",
+          "24:00"
+        ]
+      ],
+      "수": [
+        [
+          "11:00",
+          "24:00"
+        ]
+      ],
+      "월": [
+        [
+          "11:00",
+          "24:00"
+        ]
+      ],
+      "일": [
+        [
+          "11:00",
+          "24:00"
+        ]
+      ],
+      "토": [
+        [
+          "11:00",
+          "24:00"
+        ]
+      ],
+      "화": [
+        [
+          "11:00",
+          "24:00"
+        ]
+      ]
+    },
+    "id": 106,
+    "likes": 0,
     "link": "http://place.map.kakao.com/27528829",
     "menu": [
       "해원한우명품(200g): 35000",
@@ -3492,82 +6806,162 @@
       "한우육회(200g): 20000",
       "한우육회비빔밥: 10000"
     ],
+    "name": "해원숯불갈비",
+    "official_name": "해원숯불갈비 포항본점",
     "opening_hours": "매일 11:00 ~ 24:00",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3926,
+    "y": 36.08051
   },
   {
-    "name": "해적식당",
+    "address": "경북 포항시 북구 해안로 57-6",
+    "bookmark_count": 0,
+    "category": "육류 / 고기",
+    "comments_count": 0,
+    "contact": "054-272-8886",
+    "cost_performance": 0,
+    "delivery_availability": "false",
+    "distance": 5622,
+    "dong": "항구동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "17:00",
+          "24:00"
+        ]
+      ],
+      "목": [
+        [
+          "17:00",
+          "24:00"
+        ]
+      ],
+      "수": [
+        [
+          "17:00",
+          "24:00"
+        ]
+      ],
+      "월": [
+        [
+          "17:00",
+          "24:00"
+        ]
+      ],
+      "일": [
+        [
+          "17:00",
+          "24:00"
+        ]
+      ],
+      "토": [
+        [
+          "17:00",
+          "24:00"
+        ]
+      ],
+      "화": [
+        [
+          "17:00",
+          "24:00"
+        ]
+      ]
+    },
     "id": 107,
-    "official_name": "해적식당",
-    "category": "술집",
-    "dong": "흥해읍",
-    "address": "경북 포항시 북구 흥해읍 중성로32번길 12-5",
-    "contact": "없음",
-    "distance": 3801,
-    "x": 129.3461,
-    "y": 36.10739,
-    "link": "http://place.map.kakao.com/15953723",
-    "menu": null,
-    "opening_hours": null,
-    "picture": null,
     "likes": 0,
-    "bookmark_count": 0,
+    "link": "http://place.map.kakao.com/1835996023",
+    "name": "해적",
+    "official_name": "해적 영일대본점",
+    "opening_hours": "매일 17:00 ~ 24:00",
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.37646278142,
+    "y": 36.0538171786643
   },
   {
-    "name": "호식이두마리치킨",
-    "id": 108,
-    "official_name": "호식이두마리치킨 양덕1호점",
-    "category": "치킨",
-    "dong": "장성동",
     "address": "경북 포항시 북구 장성로 34-9",
-    "contact": "없음",
-    "distance": 2716,
-    "x": 129.3928,
-    "y": 36.07943,
-    "link": "http://place.map.kakao.com/27282524",
-    "menu": null,
-    "opening_hours": null,
-    "picture": null,
-    "likes": 0,
     "bookmark_count": 0,
-    "service": 0,
+    "category": "치킨",
     "comments_count": 0,
-    "flavor": 0,
+    "contact": "없음",
     "cost_performance": 0,
     "delivery_availability": "true",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "distance": 2716,
+    "dong": "장성동",
+    "flavor": 0,
+    "id": 108,
+    "likes": 0,
+    "link": "http://place.map.kakao.com/27282524",
+    "name": "호식이두마리치킨",
+    "official_name": "호식이두마리치킨 양덕1호점",
+    "service": 0,
+    "total": 0,
+    "x": 129.3928,
+    "y": 36.07943
   },
   {
-    "name": "호원",
-    "id": 109,
-    "official_name": "호원",
-    "category": "중식",
-    "dong": "장성동",
     "address": "경북 포항시 북구 장량로75번길 14-10",
+    "bookmark_count": 0,
+    "category": "중식",
+    "comments_count": 0,
     "contact": "054-242-4455",
+    "cost_performance": 0,
+    "delivery_availability": "true",
     "distance": 2239,
-    "x": 129.3893,
-    "y": 36.08344,
+    "dong": "장성동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "11:00",
+          "21:00"
+        ]
+      ],
+      "목": [
+        [
+          "11:00",
+          "21:00"
+        ]
+      ],
+      "수": [
+        [
+          "11:00",
+          "21:00"
+        ]
+      ],
+      "월": [
+        [
+          "11:00",
+          "21:00"
+        ]
+      ],
+      "일": [
+        [
+          "11:00",
+          "21:00"
+        ]
+      ],
+      "토": [
+        [
+          "11:00",
+          "21:00"
+        ]
+      ],
+      "화": [
+        [
+          "11:00",
+          "21:00"
+        ]
+      ]
+    },
+    "id": 109,
+    "likes": 0,
     "link": "http://place.map.kakao.com/9433429",
     "menu": [
       "자장면: 5000",
@@ -3576,30 +6970,27 @@
       "자장밥: 6000",
       "울짬뽕밥 (2인부터): 8000"
     ],
+    "name": "호원",
+    "official_name": "호원",
     "opening_hours": "매일 11:00 ~ 21:00",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "true",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3893,
+    "y": 36.08344
   },
   {
-    "name": "홍길동전",
-    "id": 110,
-    "official_name": "홍길동전",
-    "category": "한식",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 천마로46번길 19",
+    "bookmark_count": 0,
+    "category": "한식",
+    "comments_count": 0,
     "contact": "070-7569-4546",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 2719,
-    "x": 129.3992,
-    "y": 36.08084,
+    "dong": "양덕동",
+    "flavor": 0,
+    "id": 110,
+    "likes": 0,
     "link": "http://place.map.kakao.com/20707647",
     "menu": [
       "땡초 오징어 부추전: 12000",
@@ -3608,30 +6999,72 @@
       "두부김치: 16000",
       "칼국수: 5000"
     ],
-    "opening_hours": null,
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
+    "name": "홍길동전",
+    "official_name": "홍길동전",
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3992,
+    "y": 36.08084
   },
   {
-    "name": "홍연자명품김밥",
-    "id": 111,
-    "official_name": "홍연자명품김밥",
-    "category": "분식",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 양덕로 44",
+    "bookmark_count": 0,
+    "category": "분식",
+    "comments_count": 0,
     "contact": "054-231-0096",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 2661,
-    "x": 129.4022,
-    "y": 36.08258,
+    "dong": "양덕동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "08:00",
+          "21:00"
+        ]
+      ],
+      "목": [
+        [
+          "08:00",
+          "21:00"
+        ]
+      ],
+      "수": [
+        [
+          "08:00",
+          "21:00"
+        ]
+      ],
+      "월": [
+        [
+          "08:00",
+          "21:00"
+        ]
+      ],
+      "일": [
+        [
+          "08:00",
+          "21:00"
+        ]
+      ],
+      "토": [
+        [
+          "08:00",
+          "21:00"
+        ]
+      ],
+      "화": [
+        [
+          "08:00",
+          "21:00"
+        ]
+      ]
+    },
+    "id": 111,
+    "likes": 0,
     "link": "http://place.map.kakao.com/17800092",
     "menu": [
       "명품김밥: 2500",
@@ -3640,30 +7073,93 @@
       "명품떡볶이: 3000",
       "치즈돈까스: 7500"
     ],
+    "name": "홍연자명품김밥",
+    "official_name": "홍연자명품김밥",
     "opening_hours": "매일 08:00 ~ 21:00",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.4022,
+    "y": 36.08258
   },
   {
-    "name": "홍익돈까스",
-    "id": 112,
-    "official_name": "홍익돈까스 포항양덕점",
-    "category": "돈까스 / 회 / 일식",
-    "dong": "양덕동",
     "address": "경북 포항시 북구 장량로190번길 23",
+    "bookmark_count": 0,
+    "category": "돈까스 / 회 / 일식",
+    "comments_count": 0,
     "contact": "054-253-8077",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 2909,
-    "x": 129.4014,
-    "y": 36.07975,
+    "dong": "양덕동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "11:30",
+          "14:30"
+        ],
+        [
+          "17:00",
+          "21:00"
+        ]
+      ],
+      "목": [
+        [
+          "11:30",
+          "14:30"
+        ],
+        [
+          "17:00",
+          "21:00"
+        ]
+      ],
+      "수": [
+        [
+          "11:30",
+          "14:30"
+        ],
+        [
+          "17:00",
+          "21:00"
+        ]
+      ],
+      "월": [
+        [
+          "11:30",
+          "14:30"
+        ],
+        [
+          "17:00",
+          "21:00"
+        ]
+      ],
+      "일": [
+        [
+          "11:30",
+          "21:00"
+        ]
+      ],
+      "토": [
+        [
+          "11:30",
+          "21:00"
+        ]
+      ],
+      "화": [
+        [
+          "11:30",
+          "14:30"
+        ],
+        [
+          "17:00",
+          "21:00"
+        ]
+      ]
+    },
+    "id": 112,
+    "likes": 0,
     "link": "http://place.map.kakao.com/26455396",
     "menu": [
       "홍익왕돈까스: 9900",
@@ -3676,33 +7172,76 @@
       "스파이시 어니언 돈까스: 11000",
       "쉬림프볼: 3500"
     ],
+    "name": "홍익돈까스",
+    "official_name": "홍익돈까스 포항양덕점",
     "opening_hours": [
       "매일 11:30 ~ 21:00",
       "월~금 브레이크타임 14:30 ~ 17:00"
     ],
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.4014,
+    "y": 36.07975
   },
   {
-    "name": "홍콩반점0410",
-    "id": 113,
-    "official_name": "홍콩반점0410 포항죽파점",
-    "category": "중식",
-    "dong": "죽도동",
     "address": "경북 포항시 북구 중흥로 302",
+    "bookmark_count": 0,
+    "category": "중식",
+    "comments_count": 0,
     "contact": "054-284-0410",
+    "cost_performance": 0,
+    "delivery_availability": "false",
     "distance": 8552,
-    "x": 129.3636,
-    "y": 36.02915,
+    "dong": "죽도동",
+    "flavor": 0,
+    "hour_of_operation": {
+      "breakDate": "",
+      "onlyBreak": false,
+      "금": [
+        [
+          "11:30",
+          "21:20"
+        ]
+      ],
+      "목": [
+        [
+          "11:30",
+          "21:20"
+        ]
+      ],
+      "수": [
+        [
+          "11:30",
+          "21:20"
+        ]
+      ],
+      "월": [
+        [
+          "11:30",
+          "21:20"
+        ]
+      ],
+      "일": [
+        [
+          "11:30",
+          "21:20"
+        ]
+      ],
+      "토": [
+        [
+          "11:30",
+          "21:20"
+        ]
+      ],
+      "화": [
+        [
+          "11:30",
+          "21:20"
+        ]
+      ]
+    },
+    "id": 113,
+    "likes": 0,
     "link": "http://place.map.kakao.com/17471419",
     "menu": [
       "군만두: 4500",
@@ -3719,155 +7258,12 @@
       "고추짜장: 6000",
       "탕수육(중): 15000"
     ],
+    "name": "홍콩반점0410",
+    "official_name": "홍콩반점0410 포항죽파점",
     "opening_hours": "매일 11:30 ~ 21:20",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
     "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
-  },
-  {
-    "name": "화담면옥",
-    "id": 114,
-    "official_name": "화담면옥",
-    "category": "한식",
-    "dong": "장성동",
-    "address": "경북 포항시 북구 장량로 115",
-    "contact": "054-253-3400",
-    "distance": 2429,
-    "x": 129.3929,
-    "y": 36.08207,
-    "link": "http://place.map.kakao.com/24936055",
-    "menu": [
-      "함흥물냉면: 7000",
-      "함흥비빔냉면: 7000",
-      "함흥회비빔냉면: 8000",
-      "갈비탕: 9000",
-      "해물갈비찜: 25000",
-      "닭도리탕 (대): 25000",
-      "가오리회무침: 15000"
-    ],
-    "opening_hours": null,
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
-    "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
-  },
-  {
-    "name": "화목정",
-    "id": 115,
-    "official_name": "화목정",
-    "category": "한식",
-    "dong": "양덕동",
-    "address": "경북 포항시 북구 장량중앙로 62",
-    "contact": "없음",
-    "distance": 1540,
-    "x": 129.3884,
-    "y": 36.08971,
-    "link": "http://place.map.kakao.com/242181636",
-    "menu": [
-      "참숯구이 매콤삼겹 덮밥: 10000",
-      "참숯구이 부채살 스테이크 덮밥: 15000",
-      "성게알+단새우: 19000",
-      "성게알+스테이크: 19000",
-      "나폴리탄 토마토 파스타: 12000"
-    ],
-    "opening_hours": [
-      "매일 11:00 ~ 22:00",
-      "매일 브레이크타임 15:00 ~ 17:00"
-    ],
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
-    "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "true",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
-  },
-  {
-    "name": "황해도순대",
-    "id": 116,
-    "official_name": "황해도순대보쌈",
-    "category": "한식",
-    "dong": "죽도동",
-    "address": "경북 포항시 북구 양학천로 197",
-    "contact": "054-272-6446",
-    "distance": 8589,
-    "x": 129.3662,
-    "y": 36.02827,
-    "link": "http://place.map.kakao.com/21506134",
-    "menu": [
-      "순대국밥: 7000",
-      "찹쌀순대 (중): 14000",
-      "모듬순대 (중): 23000",
-      "순대전골: 25000",
-      "맛보기순대: 7000"
-    ],
-    "opening_hours": "매일 00:00 ~ 24:00",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
-    "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
-  },
-  {
-    "name": "흑돈",
-    "id": 117,
-    "official_name": "흑돈",
-    "category": "육류 / 고기",
-    "dong": "양덕동",
-    "address": "경북 포항시 북구 장량로189번길 5-14",
-    "contact": "054-252-2825",
-    "distance": 2572,
-    "x": 129.4002,
-    "y": 36.08263,
-    "link": "http://place.map.kakao.com/885420933",
-    "menu": [
-      "황제살(180g): 16200",
-      "꽃살(180g): 13500",
-      "꽃목살(180g): 14500",
-      "꽃갈비(180g): 14500",
-      "배받이살(180g): 13500",
-      "젓갈볶음밥: 4000",
-      "냉면(물/비빔): 5000",
-      "꽃게된장찌개: 3000",
-      "얼큰해물라면: 4000",
-      "셀프초밥(추가): 3000"
-    ],
-    "opening_hours": "휴무일: 월요일",
-    "picture": null,
-    "likes": 0,
-    "bookmark_count": 0,
-    "service": 0,
-    "comments_count": 0,
-    "flavor": 0,
-    "cost_performance": 0,
-    "delivery_availability": "false",
-    "delivery_time": [],
-    "delivery_fee": [],
-    "overall": 0
+    "total": 0,
+    "x": 129.3636,
+    "y": 36.02915
   }
 ]
