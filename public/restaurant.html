@@ -53,8 +53,14 @@
                 </li>
                 <li class="nav-item">
                     <script>
-                        const navi = "https://map.kakao.com/?q=" + info.official_name;
+                        temp_id = info.link.split("/");
+                        var res_id = temp_id[3]
+                        var navi = "https://map.kakao.com/link/to/" + res_id;
+                        var road_view = "https://map.kakao.com/link/roadview/" + res_id;
                         document.write('<a class="navbar-brand mb-0 h1 navbar-text" href=' + navi + ' target="_blank">길찾기</a>')</script>
+                </li>
+                <li class="nav-item">
+                    <script>document.write('<a class="navbar-brand mb-0 h1 navbar-text" href=' + info.link + ' target="_blank">로드뷰</a>')</script>
                 </li>
                 <li class="nav-item">
                     <script>document.write('<a class="navbar-brand mb-0 h1 navbar-text" href=' + info.link + ' target="_blank">더보기</a>')</script>
